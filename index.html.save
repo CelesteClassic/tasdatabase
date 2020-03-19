@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CELESTE Classic TAS Database</title>
+</head>
+<body>
+	<h1>CELESTE Classic TAS Database</h1> <img src="taseline.png" alt="Taseline">
+	<hr>
+	<h3>Categories</h3>
+	<pre>
+Main Categories:
+<a href="Any/any.html">Any%</a>				(TBD)
+<a href="100/hundo.html">100%</a>				(TBD)
+<a href="GemskipAny/gemskipany.html">Gemskip Any%</a>			(TBD)
+<a href="Gemskip100/gemskiphundo.html">Gemskip 100%</a>
+
+Miscellaneous Categories:
+<a href="GemskipKey/gemskipkey.html">Gemskip Key%</a>
+<a href="GemskipNodiag/gemskipnodiag.html">Gemskip No Diagonal Dashes</a>
+<a href="Key/key.html">Human Key%</a>
+<a href="MinDashes/mindashes.html">Minimum Dashes</a>			(TBD)		(36 Dashes)
+<a href="Nodiag/nodiag.html">No Diagonal Dashes Any%</a>		(1:45)
+
+Mods:
+<a href="Adelie/adelie.html">Adelie</a>
+<a href="ArielleAny/arielleany.html">Arielle Any%</a>			(40.63)
+<a href="EverredNormalAny/everrednormalany.html">Everred Normal Any%</a>		(1:17.80)
+<a href="EverredTrueskipAny/everredtrueskipany.html">Everred Trueskip Any%</a>
+<a href="ImpossiblesteAny/impossiblesteany.html">Impossibleste Any%</a>
+<a href="NoelesteAny/noelesteany.html">Noeleste Any%</a>			(58.90)
+<a href="PerisherAny/perisherany.html">Perisher Any%</a>			(2:57.60)
+
+Summit TAS Files:
+<a href="TAS31.tas" download>TAS31.tas</a>	(Gem Summit TAS)
+<a href="summitTAS/TAS31.tas" download>TAS31.tas</a>	(Gemskip / Min Dashes Summit TAS)
+<a href="ArielleAny/TAS11.tas" download>TAS11.tas</a>	(Arielle Any% TAS)
+<a href="NoelesteAny/TAS28.tas" download>TAS28.tas</a>	(Noeleste Planet Adelie TAS)
+<a href="PerisherAny/TAS31.tas" download>TAS31.tas</a>	(Perisher Summit TAS)
+</pre>
+	<hr>
+	<h3>Recent updates</h3>
+	<pre>
+
+Improvement	|	500M 139F (-3F) Perisher Any%		|	01/03/2020
+Improvement	|	900M 86F (-1F) Perisher Any%		|	28/02/2020
+Improvement	|	1900M 234F (-15F) Perisher Any%		|	28/02/2020
+Improvement	|	200M 105F (-5F) Perisher Any%		|	28/02/2020
+Improvement	|	3000M 422F (-1F) Perisher Any%		|	28/02/2020
+</pre>
+	<hr>
+	<h3>Other useful links</h3>
+	<pre>
+<a href="https://www.youtube.com/channel/UCa4880BXY1H2Jka3sD2iV7g?view_as=subscriber">The Pico Arcade YouTube Channel</a>
+<a href="Videos/videos.html">TAS Video Directory</a>
+<a href="https://github.com/gonengazit/UniversalClassicTas">Gonengazits TAS Tool</a>
+<a href="https://github.com/Akliant917/ClassicTAS">Akliants TAS Tool</a>
+<a href="https://celesteclassic.github.io/gifs/">The GIF Database</a>
+<a href="https://www.speedrun.com/celestep8">The CELESTE Classic Speedrun Leaderboards</a>
+<a href="https://www.speedrun.com/celestep8mods">The CELESTE Classic Mods Speedrun Leaderboards</a>
+<a href="https://discord.gg/4yFKdSw">The CELESTE Classic Discord</a>
+</pre>
+	<hr>
+	<pre>
+<a href="https://celesteclassic.github.io">Back to Homepage</a>
+	</pre>
+</body>
+</html>
+
