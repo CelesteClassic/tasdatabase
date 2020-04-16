@@ -154,7 +154,7 @@
             {
                 "name": "Summit",
                 "file": "TAS31.tas",
-                "frames": "Unknown"
+                "frames": null
             }
         ],
         "100": [
@@ -775,5 +775,136 @@
                 "frames": 31
             }
         }
+    },
+    "australis": {
+        "any": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": 223
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": 92
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": 170
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": 109
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": 133
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": 110
+            },
+            {
+                "name": "Transantartic",
+                "file": "TAS7.tas",
+                "frames": 98
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": 54
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": 303
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": 179
+            },
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": 307
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": 312
+            },
+            {
+                "name": "1400m",
+                "file": "TAS14.tas",
+                "frames": 72
+            },
+            {
+                "name": "Polar Plateau",
+                "file": "TAS15.tas",
+                "frames": 147
+            },
+            {
+                "name": "South Pole",
+                "file": "TAS10.tas",
+                "frames": null
+            }
+        ],
+        "100": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": 267
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": 241
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": 150
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": 233
+            },
+            {
+                "name": "Transantartic",
+                "file": "TAS7.tas",
+                "frames": 291
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": 69
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": 389
+            },
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": 436
+            },
+            {
+                "name": "1400m",
+                "file": "TAS14.tas",
+                "frames": 238
+            },
+            {
+                "name": "Polar Plateau",
+                "file": "TAS15.tas",
+                "frames": 340
+            }
+        ]
     }
 }
