@@ -248,6 +248,188 @@
                 "file": "TAS30.tas",
                 "frames": 48
             }
+        ],
+        "MinDashes": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": 81,
+                "dashes": 1
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": 95,
+                "dashes": 0
+            },
+            {
+                "name": "300m",
+                "file": "TAS4.tas",
+                "frames": 99,
+                "dashes": 0
+            },
+            {
+                "name": "400m",
+                "file": "TAS3.tas",
+                "frames": 74,
+                "dashes": 0
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": 64,
+                "dashes": 1
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": 80,
+                "dashes": 1
+            },
+            {
+                "name": "700m",
+                "file": "TAS7.tas",
+                "frames": 91,
+                "dashes": 0
+            },
+            {
+                "name": "800m",
+                "file": "TAS8.tas",
+                "frames": 100,
+                "dashes": 1
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": 95,
+                "dashes": 2
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": 78,
+                "dashes": 1
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": 78,
+                "dashes": 1
+            },
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": 92,
+                "dashes": 0
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": 95,
+                "dashes": 1
+            },
+            {
+                "name": "1400m",
+                "file": "TAS14.tas",
+                "frames": 141,
+                "dashes": 0
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": 79,
+                "dashes": 0
+            },
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+                "frames": 75,
+                "dashes": 1
+            },
+            {
+                "name": "1700m",
+                "file": "TAS17.tas",
+                "frames": 88,
+                "dashes": 1
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": 89,
+                "dashes": 2
+            },
+            {
+                "name": "1900m",
+                "file": "TAS19.tas",
+                "frames": 54,
+                "dashes": 1
+            },
+            {
+                "name":"2000m",
+                "file": "TAS20.tas",
+                "frames": 116,
+                "dashes": 2
+            },
+            {
+                "name":"2100m",
+                "file": "TAS21.tas",
+                "frames": 33,
+                "dashes": 1
+            },
+            {
+                "name":"2200m",
+                "file": "TAS22.tas",
+                "frames": 205,
+                "dashes": 1
+            },
+            {
+                "name":"2300m",
+                "file": "TAS23.tas",
+                "frames": 127,
+                "dashes": 1
+            },
+            {
+                "name":"2400m",
+                "file": "TAS24.tas",
+                "frames": 135,
+                "dashes": 0
+            },
+            {
+                "name":"2500m",
+                "file": "TAS20.tas",
+                "frames": 162,
+                "dashes": 2
+            },
+            {
+                "name":"2600m",
+                "file": "TAS26.tas",
+                "frames": 136,
+                "dashes": 3
+            },
+            {
+                "name":"2700m",
+                "file": "TAS27.tas",
+                "frames": 87,
+                "dashes": 4
+            },
+            {
+                "name":"2800m",
+                "file": "TAS28.tas",
+                "frames": 145,
+                "dashes": 4
+            },
+            {
+                "name":"2900m",
+                "file": "TAS29.tas",
+                "frames": 88,
+                "dashes": 1
+            },
+            {
+                "name":"3000m",
+                "file": "TAS30.tas",
+                "frames": 60,
+                "dashes": 3
+            }
         ]
     },
     "everred": {
