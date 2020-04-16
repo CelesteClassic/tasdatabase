@@ -249,7 +249,7 @@
                 "frames": 48
             }
         ],
-        "MinDashes": [
+        "mindashes": [
             {
                 "name": "100m",
                 "file": "TAS1.tas",

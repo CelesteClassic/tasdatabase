@@ -1,6 +1,6 @@
 var url = document.URL.split("/");
-var category = url[url.length-2];
-var game = url[url.length-3];
+var category = url[url.length - 2];
+var game = url[url.length - 3];
 let database;
 let xhr = new XMLHttpRequest();
 xhr.open("GET", "../../database.json");
@@ -10,9 +10,17 @@ xhr.onload = () => {
     // Format is database['game']['category']
     // If unsure check out database.json
     database = database[game][category.toLowerCase()];
-    for(i = 0;i < database.length;i++){
-        document.getElementById("tableStuff").innerHTML += 
-            '<tr><td><a href='+database[i]['file']+' download>'+database[i]['name']+'</a></td>'+
-            '<td>'+database[i]['frames']+'f</td></tr>';
+    if (category.toLocaleLowerCase().includes('dash')){
+        for (i = 0; i < database.length; i++) {
+            document.getElementById("tableStuff").innerHTML +=
+                '<tr><td><a href=' + database[i]['file'] + ' download>' + database[i]['name'] + '</a></td>' +
+                '<td>' + database[i]['frames'] + 'f</td><td>' + database[i]["dashes"] + 'd</tr>';
+        }
+    } else {
+        for (i = 0; i < database.length; i++) {
+            document.getElementById("tableStuff").innerHTML +=
+                '<tr><td><a href=' + database[i]['file'] + ' download>' + database[i]['name'] + '</a></td>' +
+                '<td>' + database[i]['frames'] + 'f</td></tr>';
+        }
     }
 }
