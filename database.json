@@ -567,6 +567,21 @@
                 "name": "2500m",
                 "file": "TAS25.tas",
                 "frames": 144
+            },
+            {
+                "name": "2600m",
+                "file": null,
+                "frames": null
+            },
+            {
+                "name": "2800m",
+                "file": null,
+                "frames": null
+            },
+            {
+                "name": "3000m",
+                "file": null,
+                "frames": null
             }
         ],
         "key": [
@@ -574,6 +589,11 @@
                 "name": "500m",
                 "file": "TAS5.tas",
                 "frames": 120
+            },
+            {
+                "name": "1300m",
+                "file": null,
+                "frames": null
             },
             {
                 "name": "1500m",
@@ -584,6 +604,11 @@
                 "name": "1900m",
                 "file": "TAS19.tas",
                 "frames": 111
+            },
+            {
+                "name": "2500m",
+                "file": null,
+                "frames": null
             },
             {
                 "name": "2600m",
@@ -1101,9 +1126,19 @@
                 "frames": 89
             },
             {
+                "name": "1600m",
+                "file": null,
+                "frames": null
+            },
+            {
                 "name": "2200m",
                 "file": "TAS22.tas",
                 "frames": 180
+            },
+            {
+                "name": "2400m",
+                "file": null,
+                "frames": null
             },
             {
                 "name": "2800m",
