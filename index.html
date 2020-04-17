@@ -18,52 +18,87 @@
 		Main<br />
 		<a href="classic/">Celeste Classic</a><br /><br />
 		Mods <br />
+		<a href="adelie">Adelie</a><br />
+		<a href="arielle">Arielle</a><br />
 		<a href="australis">Terra Australis</a><br />
+		<a href="everred">Everred</a><br />
+		<a href="impossibleste">Impossibleste</a><br />
+		<a href="noeleste">Noeleste</a><br />
 		<a href="oldsite">Old Site</a><br />
-		<a href="everred">Everred 1 or whatever</a><br />
+		<a href="perisher">Perisher</a><br />
 		<br />
 		* Needs to be recorded<br>
 		** Broken TAS<br><br />
-		categories<br>
-		<br>
-		<br>
-		main categories:<br>
-		<a href="Any/">Any%</a>*<br>
-		<a href="100/">100%</a>**<br>
-		<a href="GemskipAny/">Gemskip Any%</a>*<br>
-		<a href="Gemskip100/">Gemskip 100%</a>**<br>
-		<br>
-		Miscellaneous Categories:<br>
-		<a href="GemskipKey/">Gemskip Key%</a><br>
-		<a href="GemskipNodiag/">Gemskip No Diagonal Dashes</a><br>
-		<a href="Key/">Human Key%</a><br>
-		<a href="MinDashes/">Minimum Dashes</a>*<br>
-		<a href="Nodiag/">No Diagonal Dashes</a><br>
-		<br>
-		Mods:<br>
-		<a href="Adelie/">Adelie</a><br>
-		<a href="ArielleAny/">Arielle Any%</a><br>
-		<a href="EverredNormalAny/">Everred Normal Any%</a><br>
-		<a href="EverredTrueskipAny/">Everred Trueskip Any%</a>*<br>
-		<a href="ImpossiblesteAny/">Impossibleste Any%</a><br>
-		<a href="NoelesteAny/">Noeleste Any%</a>			(58.53)<br>
-		<a href="OldsiteAny/">Oldsite Any%</a>*			(1:56.07)*<br>
-		<a href="Oldsite100/">Oldsite 100%</a><br>
-		<a href="PerisherAny/">Perisher Any%</a>**			(xx:xx)**<br>
-		<a href="AustralisAny/">Terra Australis Any%</a>		(1:37:70)<br>
-		<a href="Australis100/">Terra Australis 100%</a>		(2:12.30)<br>
-		* Needs to be recorded<br>
-		** Broken TAS<br>
 		<hr>
 		Last Update: 15/04/2020, 23:48 (UTC)<br>
 		<hr>
 		other useful links<br>
 		<a href="https://www.youtube.com/channel/UCa4880BXY1H2Jka3sD2iV7g?view_as=subscriber">The Pico Arcade YouTube Channel</a><br>
 		<a href="videos.html">TAS Video Directory</a><br>
-		<a href="https://github.com/gonengazit/UniversalClassicTas">Gonengazits TAS Tool</a><br>
-		<a href="https://github.com/Akliant917/ClassicTAS">Akliants TAS Tool</a><br>
+		<a href="https://github.com/gonengazit/UniversalClassicTas">Gonengazit's TAS Tool</a><br>
+		<a href="https://github.com/Akliant917/ClassicTAS">Akliant's TAS Tool</a><br>
 		<hr>
-		<a href="https://celesteclassic.github.io">Back to Homepage</a><br>
+		<a href="../">Back to Homepage</a><br>
+		<hr>
+		Updating the database<br />
+		If you wish to contribute to this database feel free to follow the steps bellow.<br /><br />
+		Updating a level
+		<ol>
+			<li>Replace your file in the correct folder. Folder structure is always <em>game/category</em></li>
+			<li>Change the <em>frames</em> value in <a href="database.json">database.json</a></li>
+			<li><em>Optionally</em> you might have to add a value to the <em>file</em> field, which should only include the name of the file, example <em>TAS22.tas</em></il>
+		</ol><br />
+		Adding a new level to the Database<br />
+		<ol>
+			<li>Add a new file to the correct folder. The folder structure is always <em>game/category</em></li>
+			<li>Add to <a href="database.json">database.json</a> under game under category a new object. It should look like
+			<br />
+			{<br />
+				&emsp;"name": "100m",<br />
+				&emsp;"file": "TAS1.tas",<br />
+				&emsp;"frames": "70"<br />
+			},<br />
+			</li>
+		</ol><br />
+		Adding a new category to the database<br />
+		<ol>
+			<li>Under the game folder add a new folder with the name of your category <em>without spaces or special categories</em></li>
+			<li>Add to <a href="database.json">database.json</a> a new array under your game's object. The name of the array <em>has to be the same as the folder</em> It should look like:<br />
+			"any": [<br />
+			&emsp;{<br />
+				&emsp;&emsp;"name": "100m",<br />
+				&emsp;&emsp;"file": "TAS1.tas",<br />
+				&emsp;&emsp;"frames": "70"<br />
+				&emsp;},<br />
+			{<br />
+				&emsp;"name": "200m",<br />
+				&emsp;"file": "TAS2.tas",<br />
+				&emsp;"frames": "50"<br />
+			}<br />
+			]<br />
+			</li>
+			<li>Make a new <em>index.html</em> file in the new folder and copy paste (for example) <a href="classic/any/">Celeste classic's any% page</a> then change it to fit the game/category.</li>
+			<li>Add a link to the new category in the <em>index.html</em> of the game, just one folder above the category.</li>
+			<li>Add all tas files in the category's folder</li>
+		</ol><br />
+		Adding a new game to the database<br />
+		<ol>
+			<li>At the top of this website make a new folder with the name of the game/mod <em>without spaces or special categories</em>, then a folder inside with the name of the category <em>following the same naming rules as the game</em>.</li>
+			<li>Add to <a href="database.json">database.json</a> a new object with the name of the game. The name of the object <em>has to be the same as the folder</em>, and so does the category inside it. An example is:<br />
+				"classic":{<br />
+					&emsp;"any":[<br />
+					&emsp;&emsp;{<br />
+						&emsp;&emsp;&emsp;"name": "100m",<br />
+						&emsp;&emsp;&emsp;"file": "TAS1.tas",<br />
+						&emsp;&emsp;&emsp;"frames": "70"<br />
+						&emsp;&emsp;}<br />
+						&emsp;]<br />
+			}
+			</li>
+			<li>Add an <em>index.html</em> file in both the game's folder and the categories. You can use <a href="classic/">Celeste classic's page</a> as a template for the game and <a href="celeste/any/">it's any% page</a> as a template for the category.</li>
+			<li>Add all the neccesarry tas files in the category's page</li>
+			<li>Add the game to <a href="./">the home page</a> just like all the other games.</li>
+		</ol>
 	</div>
 </body>
 </html>

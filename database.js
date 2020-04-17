@@ -12,13 +12,13 @@ xhr.onload = () => {
     database = database[game][category.toLowerCase()];
     if (category.toLocaleLowerCase().includes('dash')){
         for (i = 0; i < database.length; i++) {
-            document.getElementById("tableStuff").innerHTML +=
+            document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>'+(database[i]['file'] == null?"":'<a href=' + database[i]['file'] + ' download>')+ database[i]['name'] + '</a></td>' +
                 '<td>' + (database[i]['frames'] == null?"":database[i]['frames']+'f') + 'f</td><td>' + database[i]["dashes"] + 'd</tr>';
         }
     } else {
         for (i = 0; i < database.length; i++) {
-            document.getElementById("tableStuff").innerHTML +=
+            document.getElementById("databaseTable").innerHTML +=
             '<tr><td>'+(database[i]['file'] == null?"":'<a href=' + database[i]['file'] + ' download>')+ database[i]['name'] + '</a></td>' +
                 '<td>' + (database[i]['frames'] == null?"":database[i]['frames']+'f')+'</td></tr>';
         }

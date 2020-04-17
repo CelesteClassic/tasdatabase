@@ -46,6 +46,12 @@ body {
   color: #fff1e8;
 }
 
+.content em {
+  font-weight: normal;
+  font-style: normal;
+  color: #ffa300;
+}
+
 img {
   image-rendering: auto;
   image-rendering: crisp-edges;
@@ -54,4 +60,8 @@ img {
 
 table {
     border-collapse: collapse;
+}
+
+#databaseTable {
+  width: 40%;
 }
