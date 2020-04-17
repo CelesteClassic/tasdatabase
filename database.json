@@ -780,26 +780,200 @@
 		]
 	},
 	"everred": {
-		"any": [
+		"normalany": [
 			{
+				"name": "Beginnings",
 				"file": "TAS1.tas",
-				"frames": 67
+				"frames": 145
 			},
 			{
+				"name":"100m",
 				"file": "TAS2.tas",
-				"frames": 76
+				"frames": 68
+			},
+			{
+				"name":"200m",
+				"file": "TAS3.tas",
+				"frames": 79
+			},
+			{
+				"name":"300m",
+				"file": "TAS4.tas",
+				"frames": 55
+			},
+			{
+				"name":"400m",
+				"file": "TAS5.tas",
+				"frames": 130
+			},
+			{
+				"name":"500m",
+				"file": "TAS6.tas",
+				"frames": 71
+			},
+			{
+				"name":"Forgotten Cliffside",
+				"file": "TAS7.tas",
+				"frames": 49
+			},
+			{
+				"name":"600m",
+				"file": "TAS8.tas",
+				"frames": 47
+			},
+			{
+				"name":"700m",
+				"file": "TAS9.tas",
+				"frames": 73
+			},
+			{
+				"name":"800m",
+				"file": "TAS10.tas",
+				"frames": 66
+			},
+			{
+				"name":"900m",
+				"file": "TAS11.tas",
+				"frames": 122
+			},
+			{
+				"name":"1000m",
+				"file": "TAS12.tas",
+				"frames": 50
+			},
+			{
+				"name":"Everred Peaks",
+				"file": "TAS13.tas",
+				"frames": 140
+			},
+			{
+				"name":"1100m",
+				"file": "TAS14.tas",
+				"frames": 89
+			},
+			{
+				"name":"1200m",
+				"file": "TAS15.tas",
+				"frames": 105
+			},
+			{
+				"name":"1300m",
+				"file": "TAS16.tas",
+				"frames": 118
+			},
+			{
+				"name":"1400m",
+				"file": "TAS17.tas",
+				"frames": 122
+			},
+			{
+				"name":"1500m",
+				"file": "TAS18.tas",
+				"frames": 128
+			},
+			{
+				"name":"Summit Approach",
+				"file": "TAS19.tas",
+				"frames": 62
+			},
+			{
+				"name":"Summit",
+				"file": "TAS20.tas",
+				"frames": 42
 			}
 		],
-		"100": {
-			"100": {
+		"trueskipany": [
+			{
+				"name": "Beginnings",
 				"file": "TAS1.tas",
-				"frames": 20
+				"frames": 79
 			},
-			"200": {
+			{
+				"name":"100m",
 				"file": "TAS2.tas",
-				"frames": 31
+				"frames": 79
+			},
+			{
+				"name":"200m",
+				"file": "TAS3.tas",
+				"frames": 104
+			},
+			{
+				"name":"300m",
+				"file": "TAS4.tas",
+				"frames": 54
+			},
+			{
+				"name":"400m",
+				"file": "TAS5.tas",
+				"frames": 128
+			},
+			{
+				"name":"500m",
+				"file": "TAS6.tas",
+				"frames": 78
+			},
+			{
+				"name":"Forgotten Cliffside",
+				"file": "TAS7.tas",
+				"frames": 58
+			},
+			{
+				"name":"600m",
+				"file": "TAS8.tas",
+				"frames": 47
+			},
+			{
+				"name":"700m",
+				"file": "TAS9.tas",
+				"frames": 71
+			},
+			{
+				"name":"800m",
+				"file": "TAS10.tas",
+				"frames": 79
+			},
+			{
+				"name":"900m",
+				"file": "TAS11.tas",
+				"frames": 124
+			},
+			{
+				"name":"1000m",
+				"file": "TAS12.tas",
+				"frames": 50
+			},
+			{
+				"name":"Everred Spire",
+				"file": "TAS21.tas",
+				"frames": 73
+			},
+			{
+				"name":"Aspiration",
+				"file": "TAS22.tas",
+				"frames": 233
+			},
+			{
+				"name":"Contemplation",
+				"file": "TAS23.tas",
+				"frames": 176
+			},
+			{
+				"name":"Determination",
+				"file": "TAS24.tas",
+				"frames": 149
+			},
+			{
+				"name":"Final Approach",
+				"file": "TAS27.tas",
+				"frames": 105
+			},
+			{
+				"name":"True Summit",
+				"file": "TAS28.tas",
+				"frames": 50
 			}
-		}
+		]
 	},
 	"australis": {
 		"any": [
@@ -1479,7 +1653,7 @@
 			{
 				"name": "300",
 				"file": "TAS3",
-				"frames": 101
+				"frames": 97
 			},
 			{
 				"name": "400m",
@@ -1489,7 +1663,7 @@
 			{
 				"name": "500m",
 				"file": "TAS5.tas",
-				"frames": 77
+				"frames": 60
 			},
 			{
 				"name": "600m",
