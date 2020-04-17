@@ -1305,8 +1305,8 @@
 			}
 		]
 	},
-	"perisher":{
-		"any":[
+	"perisher": {
+		"any": [
 			{
 				"name": "100m",
 				"file": "TAS1.tas",
@@ -1461,6 +1461,75 @@
 				"name": "Summit",
 				"file": "TAS31.tas",
 				"frames": null
+			}
+		]
+	},
+	"impossibleste": {
+		"any": [
+			{
+				"name": "100m",
+				"file": "TAS1.tas",
+				"frames": 114
+			},
+			{
+				"name": "200m",
+				"file": "TAS2.tas",
+				"frames": 103
+			},
+			{
+				"name": "300",
+				"file": "TAS3",
+				"frames": 101
+			},
+			{
+				"name": "400m",
+				"file": "TAS4.tas",
+				"frames": 142
+			},
+			{
+				"name": "500m",
+				"file": "TAS5.tas",
+				"frames": 77
+			},
+			{
+				"name": "600m",
+				"file": "TAS6.tas",
+				"frames": 92
+			},
+			{
+				"name": "700m",
+				"file": null,
+				"frames": null
+			},
+			{
+				"name": "800m",
+				"file": "TAS8.tas",
+				"frames": 145
+			},
+			{
+				"name": "900m",
+				"file": "TAS9.tas",
+				"frames": 117
+			},
+			{
+				"name": "1000m",
+				"file": "TAS10.tas",
+				"frames": 73
+			},
+			{
+				"name": "1100m",
+				"file": null,
+				"frames": null
+			},
+			{
+				"name": "1600m",
+				"file": "TAS16.tas",
+				"frames": 68
+			},
+			{
+				"name": "2200m",
+				"file": "TAS22.tas",
+				"frames": 139
 			}
 		]
 	}
