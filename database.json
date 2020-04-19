@@ -14,12 +14,12 @@
 			{
 				"name": "300m",
 				"file": "TAS3.tas",
-				"frames": 64
+				"frames": 70
 			},
 			{
 				"name": "400m",
 				"file": "TAS4.tas",
-				"frames": 70
+				"frames": 64
 			},
 			{
 				"name": "500m",
@@ -44,7 +44,7 @@
 			{
 				"name": "900m",
 				"file": "TAS9.tas",
-				"frames": 73
+				"frames": 72
 			},
 			{
 				"name": "1000m",
