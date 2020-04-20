@@ -14,8 +14,31 @@ function timeTas(file) {
         tas = xhr2.responseText;
         tas = tas.split(']');
         tas = tas[1].split(',');
-        tas = tas.length - 1;
-        return tas;
+        let jumps = 0;
+        let dashes = 0;
+        let leftPress = 0;
+        let rightPress = 0;
+        tas.forEach(x => {/*
+            dash = Math.floor(x / 32) % 2;
+            jump = Math.floor(x / 16) % 2;
+            */
+            if (x&16){
+                jumps++;
+            }
+            if (x&32){
+                dashes++;
+            }
+            if (x&2){
+                leftPress++;
+            }
+            if (x&1){
+                rightPress++;
+            }
+        });
+        //console.log(leftPress);
+        tastime = tas.length - 2;
+        output = [tastime, dashes, jumps, leftPress, rightPress];
+        return output;
     }
 }
 xhr.open("GET", "../../database.json");
@@ -27,15 +50,17 @@ xhr.onload = () => {
     database = database[game][category.toLowerCase()];
     if (category.toLocaleLowerCase().includes('dash')) {
         for (i = 0; i < database.length; i++) {
+            tas = timeTas(database[i]['file']);
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
-                '<td>' + (database[i]['frames'] == null ? "" : database[i]['file'] + 'f') + 'f</td><td>' + database[i]["dashes"] + 'd</tr>';
+                '<td>' + (database[i]['file'] == null ? "" : tas[0] + 'f') + '</td><td>' + tas[1] + 'd</tr>';
         }
     } else {
         for (i = 0; i < database.length; i++) {
+            tas = timeTas(database[i]['file']);
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
-                '<td>' + (database[i]['file'] == null ? "" : timeTas(database[i]['file']) + 'f') + '</td></tr>';
+                '<td>' + (database[i]['file'] == null ? "" : tas[0] + 'f') + '</td></tr>';
         }
     }
 }
