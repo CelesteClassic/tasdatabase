@@ -30,7 +30,7 @@
 		* Needs to be recorded<br>
 		** Broken TAS<br><br />
 		<hr>
-		Last Update: 15/04/2020, 23:48 (UTC)<br>
+		<div>Last Update: 15/04/2020, 23:48 (UTC)</div><br>
 		<hr>
 		other useful links<br>
 		<a href="https://www.youtube.com/channel/UCa4880BXY1H2Jka3sD2iV7g?view_as=subscriber">The Pico Arcade YouTube Channel</a><br>
@@ -39,66 +39,6 @@
 		<a href="https://github.com/Akliant917/ClassicTAS">Akliant's TAS Tool</a><br>
 		<hr>
 		<a href="../">Back to Homepage</a><br>
-		<hr>
-		Updating the database<br />
-		If you wish to contribute to this database feel free to follow the steps bellow.<br /><br />
-		Updating a level
-		<ol>
-			<li>Replace your file in the correct folder. Folder structure is always <em>game/category</em></li>
-			<li>Change the <em>frames</em> value in <a href="database.json">database.json</a></li>
-			<li><em>Optionally</em> you might have to add a value to the <em>file</em> field, which should only include the name of the file, example <em>TAS22.tas</em></il>
-		</ol><br />
-		Adding a new level to the Database<br />
-		<ol>
-			<li>Add a new file to the correct folder. The folder structure is always <em>game/category</em></li>
-			<li>Add to <a href="database.json">database.json</a> under game under category a new object. It should look like
-			<br />
-			{<br />
-				&emsp;"name": "100m",<br />
-				&emsp;"file": "TAS1.tas",<br />
-				&emsp;"frames": "70"<br />
-			},<br />
-			</li>
-		</ol><br />
-		Adding a new category to the database<br />
-		<ol>
-			<li>Under the game folder add a new folder with the name of your category <em>without spaces or special categories</em></li>
-			<li>Add to <a href="database.json">database.json</a> a new array under your game's object. The name of the array <em>has to be the same as the folder</em> It should look like:<br />
-			"any": [<br />
-			&emsp;{<br />
-				&emsp;&emsp;"name": "100m",<br />
-				&emsp;&emsp;"file": "TAS1.tas",<br />
-				&emsp;&emsp;"frames": "70"<br />
-				&emsp;},<br />
-			{<br />
-				&emsp;"name": "200m",<br />
-				&emsp;"file": "TAS2.tas",<br />
-				&emsp;"frames": "50"<br />
-			}<br />
-			]<br />
-			</li>
-			<li>Make a new <em>index.html</em> file in the new folder and copy paste (for example) <a href="classic/any/">Celeste classic's any% page</a> then change it to fit the game/category.</li>
-			<li>Add a link to the new category in the <em>index.html</em> of the game, just one folder above the category.</li>
-			<li>Add all tas files in the category's folder</li>
-		</ol><br />
-		Adding a new game to the database<br />
-		<ol>
-			<li>At the top of this website make a new folder with the name of the game/mod <em>without spaces or special categories</em>, then a folder inside with the name of the category <em>following the same naming rules as the game</em>.</li>
-			<li>Add to <a href="database.json">database.json</a> a new object with the name of the game. The name of the object <em>has to be the same as the folder</em>, and so does the category inside it. An example is:<br />
-				"classic":{<br />
-					&emsp;"any":[<br />
-					&emsp;&emsp;{<br />
-						&emsp;&emsp;&emsp;"name": "100m",<br />
-						&emsp;&emsp;&emsp;"file": "TAS1.tas",<br />
-						&emsp;&emsp;&emsp;"frames": "70"<br />
-						&emsp;&emsp;}<br />
-						&emsp;]<br />
-			}
-			</li>
-			<li>Add an <em>index.html</em> file in both the game's folder and the categories. You can use <a href="classic/">Celeste classic's page</a> as a template for the game and <a href="celeste/any/">it's any% page</a> as a template for the category.</li>
-			<li>Add all the neccesarry tas files in the category's page</li>
-			<li>Add the game to <a href="./">the home page</a> just like all the other games.</li>
-		</ol>
 	</div>
 </body>
 </html>

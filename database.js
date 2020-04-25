@@ -11,6 +11,7 @@ let totalLeftPress = 0;
 let totalRightPress = 0;
 let database;
 let xhr = new XMLHttpRequest();
+/*
 let xhr2 = new XMLHttpRequest();
 function timeTas(file) {
     if (file == null) {
@@ -28,10 +29,7 @@ function timeTas(file) {
         let dashes = 0;
         let leftPress = 0;
         let rightPress = 0;
-        tas.forEach(x => {/*
-            dash = Math.floor(x / 32) % 2;
-            jump = Math.floor(x / 16) % 2;
-            */
+        tas.forEach(x => {
             if (x & 16) {
                 jumps++;
             }
@@ -45,12 +43,12 @@ function timeTas(file) {
                 rightPress++;
             }
         });
-        //console.log(leftPress);
         tastime = tas.length - 2;
         output = [tastime, dashes, jumps, leftPress, rightPress];
         return output;
     }
 }
+*/
 xhr.open("GET", "../../database.json");
 xhr.send();
 xhr.onload = () => {
@@ -60,22 +58,25 @@ xhr.onload = () => {
     database = database[game][category.toLowerCase()];
     if (category.toLocaleLowerCase().includes('dash')) {
         for (i = 0; i < database.length; i++) {
-            tas = timeTas(database[i]['file']);
+            // tas = timeTas(database[i]['file']);
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
-                '<td>' + (database[i]['file'] == null ? "" : tas[0] + 'f') + '</td><td>' + tas[1] + 'd</tr>';
-            totalDash += tas[1];
+                '<td>' + (database[i]['frames'] == null ? "" : database[i]['frames'] + 'f') + '</td><td>' + database[i]['dashes'] + 'd</tr>';
+            totalDash += database[i]['dashes'];
         }
     } else {
         for (i = 0; i < database.length; i++) {
-            tas = timeTas(database[i]['file']);
+            // tas = timeTas(database[i]['file']);
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
-                '<td>' + (database[i]['file'] == null ? "" : tas[0] + 'f') + '</td></tr>';
+                '<td>' + (database[i]['frames'] == null ? "" : database[i]['frames'] + 'f') + '</td></tr>';
         }
     }
 }
-xhr2.onreadystatechange = function () {
+// Old, used for the loading text when the page was slow
+// Just a relic now
+// Still works on slow connections
+xhr.onreadystatechange = function () {
     loadingEl.style.display = 'none';
     //document.getElementById('category').innerHTML = category;
     if (category.toLocaleLowerCase().includes('dash')) {
