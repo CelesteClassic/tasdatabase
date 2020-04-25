@@ -11,8 +11,6 @@ let totalLeftPress = 0;
 let totalRightPress = 0;
 let database;
 let xhr = new XMLHttpRequest();
-<<<<<<< HEAD
-=======
 /*
 let xhr2 = new XMLHttpRequest();
 function timeTas(file) {
@@ -51,7 +49,6 @@ function timeTas(file) {
     }
 }
 */
->>>>>>> de988d68c4cf59e2126c7c83e5e9de731fd8f4d0
 xhr.open("GET", "../../database.json");
 xhr.send();
 xhr.onload = () => {
@@ -61,39 +58,27 @@ xhr.onload = () => {
     database = database[game][category.toLowerCase()];
     if (category.toLocaleLowerCase().includes('dash')) {
         for (i = 0; i < database.length; i++) {
-<<<<<<< HEAD
-            document.getElementById("databaseTable").innerHTML +=
-                '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
-                '<td>' + (database[i]['file'] == null ? "" : database[i]['frames'] + 'f') + '</td><td>' + database[i]['dashes'] + 'd</tr>';
-=======
             // tas = timeTas(database[i]['file']);
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
                 '<td>' + (database[i]['frames'] == null ? "" : database[i]['frames'] + 'f') + '</td><td>' + database[i]['dashes'] + 'd</tr>';
->>>>>>> de988d68c4cf59e2126c7c83e5e9de731fd8f4d0
             totalDash += database[i]['dashes'];
         }
     } else {
         for (i = 0; i < database.length; i++) {
-<<<<<<< HEAD
-=======
             // tas = timeTas(database[i]['file']);
->>>>>>> de988d68c4cf59e2126c7c83e5e9de731fd8f4d0
             document.getElementById("databaseTable").innerHTML +=
                 '<tr><td>' + (database[i]['file'] == null ? "" : '<a href=' + database[i]['file'] + ' download>') + database[i]['name'] + '</a></td>' +
                 '<td>' + (database[i]['frames'] == null ? "" : database[i]['frames'] + 'f') + '</td></tr>';
         }
     }
-<<<<<<< HEAD
     //loadingEl.style.display = 'none';
-=======
 }
 // Old, used for the loading text when the page was slow
 // Just a relic now
 // Still works on slow connections
 xhr.onreadystatechange = function () {
     loadingEl.style.display = 'none';
->>>>>>> de988d68c4cf59e2126c7c83e5e9de731fd8f4d0
     //document.getElementById('category').innerHTML = category;
     if (category.toLocaleLowerCase().includes('dash')) {
         setTimeout(function () {
