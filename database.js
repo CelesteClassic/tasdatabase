@@ -1,7 +1,7 @@
-//var loadingEl = document.createElement("p");
-//var loadingText = document.createTextNode("Loading...");
-//loadingEl.appendChild(loadingText);
-//document.getElementById("databaseTable").appendChild(loadingEl);
+var loadingEl = document.createElement("p");
+var loadingText = document.createTextNode("Loading...");
+loadingEl.appendChild(loadingText);
+document.getElementById("databaseTable").appendChild(loadingEl);
 var url = document.URL.split("/");
 var category = url[url.length - 2];
 var game = url[url.length - 3];
@@ -72,7 +72,7 @@ xhr.onload = () => {
                 '<td>' + (database[i]['frames'] == null ? "" : database[i]['frames'] + 'f') + '</td></tr>';
         }
     }
-    //loadingEl.style.display = 'none';
+    loadingEl.style.display = 'none';
 }
 // Old, used for the loading text when the page was slow
 // Just a relic now
