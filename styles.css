@@ -1,67 +1,75 @@
 @font-face {
-  font-family: 'pico-8';
-  src: url('font/pico-8-webfont.woff') format('woff'),
-       url('font/pico-8-webfont.woff2') format('woff2'),
-       url('font/pico-8.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+	font-family: "pico-8";
+	src: url("font/pico-8-webfont.woff") format("woff"),
+		url("font/pico-8-webfont.woff2") format("woff2"),
+		url("font/pico-8.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
 }
 
 body {
-  margin: 8px;
-  padding: 8px;
+	margin: 8px;
+	padding: 8px;
 
-  width: 100vw - 8px;
-  height: 100vh - 8px;
+	width: 100vw - 8px;
+	height: 100vh - 8px;
 
-  font-family: 'pico-8';
-  line-height: 1.25;
-  background-color: #000;
+	font-family: "pico-8";
+	line-height: 1.25;
+	background-color: #000;
 }
 
 .bootup {
-  color: #c2c3c7;
+	color: #c2c3c7;
 }
 
 .content {
-  color: #fff1e8;
+	color: #fff1e8;
 }
 
 .content hr {
-  border-top: 0.19em solid #fff1e8;
-  border-bottom: 0;
-  border-left: 0;
-  border-right: 0;
-  text-align: left;
-  margin-left: 0;
-  width: min(720px, 80vw);
+	border-top: 0.19em solid #fff1e8;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	text-align: left;
+	margin-left: 0;
+	width: min(720px, 80vw);
 }
 
-.content a:link, a:visited, a:active {
-  color: #29adff;
-  text-decoration: none;
+.content a:link,
+a:visited,
+a:active {
+	color: #29adff;
+	text-decoration: none;
 }
 
 .content a:hover {
-  color: #fff1e8;
+	color: #fff1e8;
 }
 
 .content em {
-  font-weight: normal;
-  font-style: normal;
-  color: #ffa300;
+	font-weight: normal;
+	font-style: normal;
+	color: #ffa300;
 }
 
 img {
-  image-rendering: auto;
-  image-rendering: crisp-edges;
-  image-rendering: pixelated;
+	image-rendering: auto;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
 }
 
 table {
-    border-collapse: collapse;
+	border-collapse: collapse;
 }
 
 #databaseTable {
-  width: 40%;
+	width: 40%;
+}
+#fulltime {
+	display: inline;
+}
+#totaldashes {
+	display: inline;
 }
