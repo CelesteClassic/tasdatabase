@@ -2286,12 +2286,12 @@
             "any": "01:37.033300",
             "100": "1:57.47",
             "nodiag": "1:45.53",
-            "key%": "nil",
+            "key%": null,
             "mindashes": "2:05.90",
             "gemskipany": "1:42.07",
             "gemskip100": "2:07.87",
             "gemskipnodiag": "1:54.40",
-            "gemskipkey": "nill"
+            "gemskipkey": null
         },
         "adelie": {
             "gemskipanypenguin": "1:00.90"
@@ -2313,9 +2313,9 @@
         "noeleste": {
             "any": "58.53"
         },
-        "oldleste": {
+        "oldsite": {
             "any": "1:56.07",
-            "100": "nil"
+            "100": null
         },
         "perisher": {
             "any": "2:57.57"
