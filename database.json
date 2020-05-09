@@ -89,7 +89,7 @@
             {
                 "name": "1800m",
                 "file": "TAS18.tas",
-                "frames": 79
+                "frames": 78
             },
             {
                 "name": "1900m",
@@ -2123,7 +2123,7 @@
         ]
     },
     "downhill": {
-    	"any": [
+        "any": [
             {
                 "name": "Summit",
                 "file": "TAS31.tas",
