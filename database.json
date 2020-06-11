@@ -4,7 +4,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 67
+                "frames": 66
             },
             {
                 "name": "200m",
@@ -1700,11 +1700,11 @@
                 "file": null,
                 "frames": null
             },
-			{
-				"name": "1200m",
-				"file": "TAS12.tas",
-				"frames": 142
-			},
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": 142
+            },
             {
                 "name": "1600m",
                 "file": "TAS16.tas",
@@ -1722,12 +1722,12 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-				"frames":78
+                "frames": 78
             },
             {
                 "name": "200m",
                 "file": "TAS2.tas",
-				"frames": 53
+                "frames": 53
             },
             {
                 "name": "300m",
@@ -1736,22 +1736,22 @@
             {
                 "name": "400m",
                 "file": "TAS4.tas",
-				"frames": 43
+                "frames": 43
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-				"frames":67
+                "frames": 67
             },
             {
                 "name": "600m",
                 "file": "TAS6.tas",
-				"frames":59
+                "frames": 59
             },
             {
                 "name": "700m",
                 "file": "TAS7.tas",
-				"frames":42
+                "frames": 42
             },
             {
                 "name": "800m",
@@ -1760,47 +1760,47 @@
             {
                 "name": "900m",
                 "file": "TAS9.tas",
-				"frames":97
+                "frames": 97
             },
             {
                 "name": "1000m",
                 "file": "TAS10.tas",
-				"frames": 112
+                "frames": 112
             },
             {
                 "name": "Old Site",
                 "file": "TAS11.tas",
-				"frames": 57
+                "frames": 57
             },
             {
                 "name": "1200m",
                 "file": "TAS12.tas",
-				"frames":108
+                "frames": 108
             },
             {
                 "name": "1300m",
                 "file": "TAS13.tas",
-				"frames":110
+                "frames": 110
             },
             {
                 "name": "1400m",
                 "file": "TAS14.tas",
-				"frames":71
+                "frames": 71
             },
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-				"frames":119
+                "frames": 119
             },
             {
                 "name": "1600m",
-                "file": "TAS16.tas", 
-				"frames": 63
+                "file": "TAS16.tas",
+                "frames": 63
             },
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-				"frames":54
+                "frames": 54
             },
             {
                 "name": "1800m",
@@ -1813,7 +1813,7 @@
             {
                 "name": "2000m",
                 "file": "TAS20.tas",
-				"frames":43
+                "frames": 43
             },
             {
                 "name": "2100m",
@@ -1834,12 +1834,12 @@
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-				"frames":73
+                "frames": 73
             },
             {
                 "name": "2600m",
                 "file": "TAS26.tas",
-				"frames":92
+                "frames": 92
             },
             {
                 "name": "2700m",
@@ -2304,278 +2304,278 @@
             }
         ]
     },
-	"celeste1.5": {
+    "celeste1.5": {
         "any": [
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-				"frames": 58
+                "frames": 58
             },
             {
                 "name": "200m",
                 "file": "TAS2.tas",
-				"frames": 76
+                "frames": 76
             },
             {
                 "name": "300m",
                 "file": "TAS3.tas",
-				"frames": 58
+                "frames": 58
             },
             {
                 "name": "400m",
                 "file": "TAS4.tas",
-				"frames": 47
+                "frames": 47
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-				"frames": 46
+                "frames": 46
             },
             {
                 "name": "600m",
                 "file": "TAS6.tas",
-				"frames": 43
+                "frames": 43
             },
             {
                 "name": "700m",
                 "file": "TAS7.tas",
-				"frames": 49
+                "frames": 49
             },
             {
                 "name": "800m",
                 "file": "TAS8.tas",
-				"frames": 56
+                "frames": 56
             },
             {
                 "name": "900m",
                 "file": "TAS9.tas",
-				"frames": 53
+                "frames": 53
             },
             {
                 "name": "1000m",
                 "file": "TAS10.tas",
-				"frames": 47
+                "frames": 47
             },
             {
                 "name": "1100m",
                 "file": "TAS11.tas",
-				"frames": 49
+                "frames": 49
             },
             {
                 "name": "Old Site",
                 "file": "TAS12.tas",
-				"frames": 41
+                "frames": 41
             },
             {
                 "name": "1300m",
                 "file": "TAS13.tas",
-				"frames": 68
+                "frames": 68
             },
             {
                 "name": "1400m",
                 "file": "TAS14.tas",
-				"frames": 68
+                "frames": 68
             },
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-				"frames": 62
+                "frames": 62
             },
             {
                 "name": "1600m",
-                "file": "TAS16.tas", 
-				"frames": 62
+                "file": "TAS16.tas",
+                "frames": 62
             },
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-				"frames": 54
+                "frames": 54
             },
             {
                 "name": "1800m",
                 "file": "TAS18.tas",
-				"frames": 57
+                "frames": 57
             },
             {
                 "name": "1900m",
                 "file": "TAS19.tas",
-				"frames": 46
+                "frames": 46
             },
             {
                 "name": "2000m",
                 "file": "TAS20.tas",
-				"frames": 87
+                "frames": 87
             },
             {
                 "name": "2100m",
                 "file": "TAS21.tas",
-				"frames": 25
+                "frames": 25
             },
             {
                 "name": "2200m",
                 "file": "TAS22.tas",
-				"frames": 123
+                "frames": 123
             },
             {
                 "name": "2300m",
                 "file": "TAS23.tas",
-				"frames": 40
+                "frames": 40
             },
             {
                 "name": "2400m",
                 "file": "TAS24.tas",
-				"frames": 67
+                "frames": 67
             },
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-				"frames":71
+                "frames": 71
             },
             {
                 "name": "2600m",
                 "file": "TAS26.tas",
-				"frames":102
+                "frames": 102
             },
             {
                 "name": "2700m",
                 "file": "TAS27.tas",
-				"frames": 69
+                "frames": 69
             },
             {
                 "name": "2800m",
                 "file": "TAS28.tas",
-				"frames": 128
+                "frames": 128
             },
             {
                 "name": "2900m",
                 "file": "TAS29.tas",
-				"frames": 55
+                "frames": 55
             },
             {
                 "name": "3000m",
                 "file": "TAS30.tas",
-				"frames": 46
+                "frames": 46
             },
             {
                 "name": "Summit",
                 "file": "TAS31.tas"
             }
         ]
-	},
-	"partymountain": {
+    },
+    "partymountain": {
         "any": [
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-				"frames": 54
+                "frames": 54
             },
             {
                 "name": "200m",
                 "file": "TAS2.tas",
-				"frames": 703
+                "frames": 703
             },
             {
                 "name": "300m",
                 "file": "TAS3.tas",
-				"frames": 14
+                "frames": 14
             },
             {
                 "name": "400m",
                 "file": "TAS4.tas",
-				"frames": 63
+                "frames": 63
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-				"frames": 51
+                "frames": 51
             },
             {
                 "name": "600m",
                 "file": "TAS6.tas",
-				"frames": 41
+                "frames": 41
             },
             {
                 "name": "700m",
                 "file": "TAS7.tas",
-				"frames": 52
+                "frames": 52
             },
             {
                 "name": "800m",
                 "file": "TAS8.tas",
-				"frames": 49
+                "frames": 49
             },
             {
                 "name": "900m",
                 "file": "TAS9.tas",
-				"frames": 129
+                "frames": 129
             },
             {
                 "name": "1000m",
                 "file": "TAS10.tas",
-				"frames": 56
+                "frames": 56
             },
             {
                 "name": "1100m",
                 "file": "TAS11.tas",
-				"frames": 65
+                "frames": 65
             },
             {
                 "name": "Old Site",
                 "file": "TAS12.tas",
-				"frames": 44
+                "frames": 44
             },
             {
                 "name": "1300m",
                 "file": "TAS13.tas",
-				"frames": 70
+                "frames": 70
             },
             {
                 "name": "1400m",
                 "file": "TAS14.tas",
-				"frames": 79
+                "frames": 79
             },
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-				"frames": 61
+                "frames": 61
             },
             {
                 "name": "1600m",
-                "file": "TAS16.tas", 
-				"frames": 82
+                "file": "TAS16.tas",
+                "frames": 82
             },
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-				"frames": 68
+                "frames": 68
             },
             {
                 "name": "1800m",
                 "file": "TAS18.tas",
-				"frames": 43
+                "frames": 43
             },
             {
                 "name": "1900m",
                 "file": "TAS19.tas",
-				"frames": 48
+                "frames": 48
             },
             {
                 "name": "2000m",
                 "file": "TAS20.tas",
-				"frames": 68
+                "frames": 68
             },
             {
                 "name": "2100m",
                 "file": "TAS21.tas",
-				"frames": 77
+                "frames": 77
             },
             {
                 "name": "2200m",
                 "file": "TAS22.tas",
-				"frames": null
+                "frames": null
             }
         ]
-	},
+    },
     "fulltime": {
         "classic": {
             "any": "01:36.33",
@@ -2618,14 +2618,14 @@
         "downhill": {
             "any": "1:06.93"
         },
-		"funklost":{
-			"any": null 
-		},
-		"celeste1.5":{
-			"any":"1:29.53"
-		},
-		"partymountain":{
-			"any":"1:02.96"
-		}
+        "funklost": {
+            "any": null
+        },
+        "celeste1.5": {
+            "any": "1:29.53"
+        },
+        "partymountain": {
+            "any": "1:02.96"
+        }
     }
 }
