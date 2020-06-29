@@ -84,7 +84,7 @@
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-                "frames": 56
+                "frames": 55
             },
             {
                 "name": "1800m",
@@ -2699,7 +2699,7 @@
     },
     "fulltime": {
         "classic": {
-            "any": "01:36.30",
+            "any": "01:36.00",
             "100": "1:55.80",
             "nodiag": "1:45.53",
             "key%": null,
