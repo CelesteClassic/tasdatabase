@@ -74,7 +74,7 @@
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-                "frames": 66
+                "frames": 63
             },
             {
                 "name": "1600m",
@@ -161,7 +161,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 91
+                "frames": 90
             },
             {
                 "name": "300m",
@@ -206,7 +206,7 @@
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-                "frames": 90
+                "frames": 88
             },
             {
                 "name": "1700m",
@@ -226,7 +226,7 @@
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-                "frames": 114
+                "frames": 112
             },
             {
                 "name": "2600m",
@@ -777,6 +777,188 @@
                 "file": "TAS30.tas",
                 "frames": 73
             }
+        ],
+		"minjumps": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": 76,
+                "jumps": 1
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": 113,
+                "jumps": 3
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": 101,
+                "jumps": 1
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": 101,
+                "jumps": 0
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": 55,
+                "jumps": 1
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": 56,
+                "jumps": 1
+            },
+            {
+                "name": "700m",
+                "file": "TAS7.tas",
+                "frames": 64,
+                "jumps": 0
+            },
+            {
+                "name": "800m",
+                "file": "TAS8.tas",
+                "frames": 89,
+                "jumps": 1
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": 80,
+                "jumps": 0
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": 115,
+                "jumps": 1
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": 155,
+                "jumps": 1
+            },
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": 83,
+                "jumps": 1
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": 139,
+                "jumps": 1
+            },
+            {
+                "name": "1400m",
+                "file": "TAS14.tas",
+                "frames": 86,
+                "jumps": 1
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": 106,
+                "jumps": 1
+            },
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+                "frames": 77,
+                "jumps": 2
+            },
+            {
+                "name": "1700m",
+                "file": "TAS17.tas",
+                "frames": 71,
+                "jumps": 2
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": 116,
+                "jumps": 0
+            },
+            {
+                "name": "1900m",
+                "file": "TAS19.tas",
+                "frames": 112,
+                "jumps": 1
+            },
+            {
+                "name": "2000m",
+                "file": "TAS20.tas",
+                "frames": 108,
+                "jumps": 0
+            },
+            {
+                "name": "2100m",
+                "file": "TAS21.tas",
+                "frames": 71,
+                "jumps": 0
+            },
+            {
+                "name": "2200m",
+                "file": "TAS22.tas",
+                "frames": 130,
+                "jumps": 0
+            },
+            {
+                "name": "2300m",
+                "file": "TAS23.tas",
+                "frames": 73,
+                "jumps": 0
+            },
+            {
+                "name": "2400m",
+                "file": "TAS24.tas",
+                "frames": 85,
+                "jumps": 0
+            },
+            {
+                "name": "2500m",
+                "file": "TAS25.tas",
+                "frames": 75,
+                "jumps": 0
+            },
+            {
+                "name": "2600m",
+                "file": "TAS26.tas",
+                "frames": 147,
+                "jumps": 0
+            },
+            {
+                "name": "2700m",
+                "file": "TAS27.tas",
+                "frames": 130,
+                "jumps": 0
+            },
+            {
+                "name": "2800m",
+                "file": "TAS28.tas",
+                "frames": 141,
+                "jumps": 0
+            },
+            {
+                "name": "2900m",
+                "file": "TAS29.tas",
+                "frames": 75,
+                "jumps": 0
+            },
+            {
+                "name": "3000m",
+                "file": "TAS30.tas",
+                "frames": 50,
+                "jumps": 0
+            }
         ]
     },
     "everred": {
@@ -844,42 +1026,84 @@
             {
                 "name": "Everred Peaks",
                 "file": "TAS13.tas",
-                "frames": 140
+                "frames": 135
             },
             {
                 "name": "1100m",
                 "file": "TAS14.tas",
-                "frames": 82
+                "frames": 79
             },
             {
                 "name": "1200m",
                 "file": "TAS15.tas",
-                "frames": 105
+                "frames": 92
             },
             {
                 "name": "1300m",
                 "file": "TAS16.tas",
-                "frames": 118
+                "frames": 116
             },
             {
                 "name": "1400m",
                 "file": "TAS17.tas",
-                "frames": 122
+                "frames": 117
             },
             {
                 "name": "1500m",
                 "file": "TAS18.tas",
-                "frames": 128
+                "frames": 126
             },
             {
                 "name": "Summit Approach",
                 "file": "TAS19.tas",
-                "frames": 62
+                "frames": 54
             },
             {
                 "name": "Summit",
                 "file": "TAS20.tas",
-                "frames": 52
+                "frames": 50
+            }
+        ],
+		"gemskipany": [
+            {
+                "name": "Everred Peaks",
+                "file": "TAS13.tas",
+                "frames": 76
+            },
+            {
+                "name": "1100m",
+                "file": "TAS14.tas",
+                "frames": 80
+            },
+            {
+                "name": "1200m",
+                "file": "TAS15.tas",
+                "frames": 98
+            },
+            {
+                "name": "1300m",
+                "file": "TAS16.tas",
+                "frames": 146
+            },
+            {
+                "name": "1400m",
+                "file": "TAS17.tas",
+                "frames": 121
+            },
+            {
+                "name": "1500m",
+                "file": "TAS18.tas",
+                "frames": 134
+            },
+            {
+                "name": "Summit Approach",
+                "file": "TAS19.tas",
+                "frames": 66
+            },
+            {
+                "name": "Summit",
+                "file": "TAS20.tas",
+                "frames": 51
             }
         ],
         "trueskipany": [
@@ -1341,7 +1565,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 78
+                "frames": 70
             },
             {
                 "name": "200m",
@@ -1351,17 +1575,17 @@
             {
                 "name": "300m",
                 "file": "TAS3.tas",
-                "frames": 104
+                "frames": 97
             },
             {
                 "name": "400m",
                 "file": "TAS4.tas",
-                "frames": 139
+                "frames": 137
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-                "frames": 51
+                "frames": 50
             },
             {
                 "name": "600m",
@@ -1376,17 +1600,17 @@
             {
                 "name": "800m",
                 "file": "TAS8.tas",
-                "frames": 35
+                "frames": 33
             },
             {
                 "name": "900m",
                 "file": "TAS9.tas",
-                "frames": 62
+                "frames": 61
             },
             {
                 "name": "1000m",
                 "file": "TAS10.tas",
-                "frames": 124
+                "frames": 121
             },
             {
                 "name": "Summit",
@@ -1727,7 +1951,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 78
+                "frames": 72
             },
             {
                 "name": "200m",
@@ -1742,17 +1966,17 @@
             {
                 "name": "400m",
                 "file": "TAS4.tas",
-                "frames": 43
+                "frames": 41
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-                "frames": 67
+                "frames": 45
             },
             {
                 "name": "600m",
                 "file": "TAS6.tas",
-                "frames": 59
+                "frames": 56
             },
             {
                 "name": "700m",
@@ -1767,7 +1991,7 @@
             {
                 "name": "900m",
                 "file": "TAS9.tas",
-                "frames": 97
+                "frames": 95
             },
             {
                 "name": "1000m",
@@ -1777,7 +2001,7 @@
             {
                 "name": "Old Site",
                 "file": "TAS11.tas",
-                "frames": 57
+                "frames": 47
             },
             {
                 "name": "1200m",
@@ -1802,7 +2026,7 @@
             {
                 "name": "1600m",
                 "file": "TAS16.tas",
-                "frames": 63
+                "frames": 44
             },
             {
                 "name": "1700m",
@@ -1812,16 +2036,17 @@
             {
                 "name": "1800m",
                 "file": "TAS18.tas",
-                "frames": 134
+                "frames": 127
             },
             {
                 "name": "1900m",
-                "file": null
+                "file": "TAS19.tas",
+				"frames": 123
             },
             {
                 "name": "2000m",
                 "file": "TAS20.tas",
-                "frames": 43
+                "frames": 33
             },
             {
                 "name": "2100m",
@@ -1831,7 +2056,7 @@
             {
                 "name": "2200m",
                 "file": "TAS22.tas",
-                "frames": 68
+                "frames": 63
             },
             {
                 "name": "2300m",
@@ -1840,12 +2065,13 @@
             },
             {
                 "name": "2400m",
-                "file": null
+                "file": "TAS24.tas",
+				"frames": 116
             },
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-                "frames": 73
+                "frames": 70
             },
             {
                 "name": "2600m",
@@ -1859,11 +2085,13 @@
             },
             {
                 "name": "2800m",
-                "file": null
+                "file": "TAS28.tas",
+				"frames": 126
             },
             {
                 "name": "2900m",
-                "file": null
+                "file": "TAS29.tas",
+				"frames": 118
             },
             {
                 "name": "3000m",
@@ -2697,31 +2925,326 @@
             }
         ]
     },
+	"ruins": {
+        "any": [
+            {
+                "name": "KEEP OUT",
+                "file": "TAS1.tas",
+                "frames": 30
+            },
+            {
+                "name": "Temple Entrance",
+                "file": "TAS2.tas",
+                "frames": 61
+            },
+            {
+                "name": "Treasure Room",
+                "file": "TAS3.tas",
+                "frames": 145
+            },
+            {
+                "name": "Split Paths",
+                "file": "TAS4.tas",
+                "frames": 44
+            },
+            {
+                "name": "Mountain Underside",
+                "file": "TAS5.tas",
+                "frames": 75
+            },
+            {
+                "name": "Old Climbing Path",
+                "file": "TAS6.tas",
+                "frames": 91
+            },
+            {
+                "name": "Cliff",
+                "file": "TAS7.tas",
+                "frames": 149
+            },
+            {
+                "name": "Tight Space",
+                "file": "TAS8.tas",
+                "frames": 91
+            },
+            {
+                "name": "Tunnel",
+                "file": "TAS9.tas",
+                "frames": 143
+            },
+            {
+                "name": "Tighter Space",
+                "file": "TAS10.tas",
+                "frames": 70
+            },
+            {
+                "name": "Exit ?",
+                "file": "TAS11.tas",
+                "frames": 72
+            },
+            {
+                "name": "Regret",
+                "file": "TAS12.tas",
+                "frames": 40
+            },
+            {
+                "name": "Trap",
+                "file": "TAS13.tas",
+                "frames": 74
+            },
+            {
+                "name": "Shortcuts",
+                "file": "TAS14.tas",
+                "frames": 44
+            },
+            {
+                "name": "Wall",
+                "file": "TAS15.tas",
+                "frames": 57
+            },
+            {
+                "name": "Out of Reach",
+                "file": "TAS16.tas",
+                "frames": 44
+            },
+            {
+                "name": "Pink",
+                "file": "TAS17.tas",
+                "frames": 88
+            },
+            {
+                "name": "Overhanging Rock",
+                "file": "TAS18.tas",
+                "frames": 39
+            },
+            {
+                "name": "Cold Place",
+                "file": "TAS19.tas",
+                "frames": 111
+            },
+            {
+                "name": "Tunnels",
+                "file": "TAS20.tas",
+                "frames": 106
+            },
+            {
+                "name": "Maze",
+                "file": "TAS21.tas",
+                "frames": 57
+            },
+            {
+                "name": "One-way Climb",
+                "file": "TAS22.tas",
+                "frames": 82
+            },
+            {
+                "name": "Tightest Space",
+                "file": "TAS23.tas",
+                "frames": 92
+            },
+            {
+                "name": "THIEF THIEF THIEF",
+                "file": "TAS24.tas",
+                "frames": 33
+            },
+            {
+                "name": "Summit",
+                "file": "TAS25.tas",
+                "frames": null
+            },
+            {
+                "name": "It's A Secret!",
+                "file": "TAS26.tas",
+                "frames": null
+            }
+        ]
+    },
+	"mars": {
+        "any": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": 90
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": 111
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": 107
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": 110
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": 59
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": 70
+            },
+            {
+                "name": "700m",
+                "file": "TAS7.tas",
+                "frames": 76
+            },
+            {
+                "name": "800m",
+                "file": "TAS8.tas",
+                "frames": 98
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": 80
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": 63
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": 74
+            },
+            {
+                "name": "Old Site",
+                "file": "TAS12.tas",
+                "frames": 98
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": 122
+            },
+            {
+                "name": "1400m",
+                "file": "TAS14.tas",
+                "frames": 130
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": 94
+            },
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+                "frames": 103
+            },
+            {
+                "name": "1700m",
+                "file": "TAS17.tas",
+                "frames": 86
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": 116
+            },
+            {
+                "name": "1900m",
+                "file": "TAS19.tas",
+                "frames": 133
+            },
+            {
+                "name": "2000m",
+                "file": "TAS20.tas",
+                "frames": 136
+            },
+            {
+                "name": "2100m",
+                "file": "TAS21.tas",
+                "frames": 63
+            },
+            {
+                "name": "2200m",
+                "file": "TAS22.tas",
+                "frames": 115
+            },
+            {
+                "name": "2300m",
+                "file": "TAS23.tas",
+                "frames": 85
+            },
+            {
+                "name": "2400m",
+                "file": "TAS24.tas",
+                "frames": 102
+            },
+            {
+                "name": "2500m",
+                "file": "TAS25.tas",
+                "frames": 163
+            },
+            {
+                "name": "2600m",
+                "file": "TAS26.tas",
+                "frames": 153
+            },
+            {
+                "name": "2700m",
+                "file": "TAS27.tas",
+                "frames": 145
+            },
+            {
+                "name": "2800m",
+                "file": "TAS28.tas",
+                "frames": 158
+            },
+            {
+                "name": "2900m",
+                "file": "TAS29.tas",
+                "frames": 103
+            },
+            {
+                "name": "3000m",
+                "file": "TAS30.tas",
+                "frames": 137
+            },
+            {
+                "name": "Summit",
+                "file": "TAS31.tas"
+            }
+        ]
+    },
     "fulltime": {
         "classic": {
-            "any": "01:35.87",
-            "100": "1:55.80",
+            "any": "01:35.77",
+            "100": "1:55.17",
             "nodiag": "1:45.53",
             "key%": null,
-            "mindashes": "2:06.53",
+            "mindashes": "2:16.80",
             "gemskipany": "1:40.43",
             "gemskip100": "2:07.87",
             "gemskipnodiag": "1:54.40",
-            "gemskipkey": null
+            "gemskipkey": null,
+			"minjumps": "2:03.73"
         },
         "adelie": {
-            "gemskipanypenguin": "1:00.90"
+            "gemskipanypenguin": "1:00.90",
+			"gemskipanynopenguin": "35.47"
         },
         "arielle": {
-            "any": "40.60"
+            "any": "40.80"
         },
         "australis": {
             "any": "1:37.70",
             "100": "2:12.30"
         },
         "everred": {
-            "normalany": "1:16.67",
-            "trueskipany": "1:16.40"
+            "normalany": "1:15.30",
+			"gemskipany": "1:15.43",
+            "trueskipany": "1:15.80"
         },
         "impossibleste": {
             "any": null
@@ -2740,16 +3263,22 @@
             "any": "1:06.93"
         },
         "funklost": {
-            "any": null
+            "any": "1:52.96"
         },
         "celeste1.5": {
             "any": "1:29.53"
         },
         "partymountain": {
-            "any": "1:02.96"
+            "any": "1:02.97"
         },
         "snekmod": {
             "gemskip": "1:15.73"
-        }
+        },
+		"ruins":{
+			"any": "1:27.70"
+		},
+		"mars":{
+			"any": "2:13.77"
+		}
     }
 }
