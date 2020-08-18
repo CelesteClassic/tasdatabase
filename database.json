@@ -1006,7 +1006,7 @@
             {
                 "name": "700m",
                 "file": "TAS9.tas",
-                "frames": 72
+                "frames": 71
             },
             {
                 "name": "800m",
@@ -3508,7 +3508,7 @@
             "100": "2:12.30"
         },
         "everred": {
-            "normalany": "1:14.13",
+            "normalany": "1:14.10",
 			"gemskipany": "1:15.43",
             "trueskipany": "1:15.63"
         },
