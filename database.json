@@ -39,7 +39,7 @@
             {
                 "name": "800m",
                 "file": "TAS8.tas",
-                "frames": 69
+                "frames": 64
             },
             {
                 "name": "900m",
@@ -54,7 +54,7 @@
             {
                 "name": "1100m",
                 "file": "TAS11.tas",
-                "frames": 58
+                "frames": 57
             },
             {
                 "name": "1200m",
@@ -79,7 +79,7 @@
             {
                 "name": "1600m",
                 "file": "TAS16.tas",
-                "frames": 60
+                "frames": 59
             },
             {
                 "name": "1700m",
@@ -211,12 +211,12 @@
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-                "frames": 67
+                "frames": 65
             },
             {
                 "name": "1900m",
                 "file": "TAS19.tas",
-                "frames": 109
+                "frames": 108
             },
             {
                 "name": "2300m",
@@ -226,17 +226,17 @@
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-                "frames": 112
+                "frames": 110
             },
             {
                 "name": "2600m",
                 "file": "TAS26.tas",
-                "frames": 150
+                "frames": 141
             },
             {
                 "name": "2800m",
                 "file": "TAS28.tas",
-                "frames": 142
+                "frames": 139
             },
             {
                 "name": "2900m",
@@ -435,17 +435,17 @@
             {
                 "name": "2300m",
                 "file": "TAS23.tas",
-                "frames": 179
+                "frames": 166
             },
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-                "frames": 141
+                "frames": 124
             },
             {
                 "name": "2600m",
                 "file": "TAS26.tas",
-                "frames": 203
+                "frames": 190
             },
             {
                 "name": "2800m",
@@ -477,12 +477,12 @@
             {
                 "name": "2400m",
                 "file": "TAS24.tas",
-                "frames": 82
+                "frames": 76
             },
             {
                 "name": "2500m",
                 "file": "TAS25.tas",
-                "frames": 84
+                "frames": 82
             },
             {
                 "name": "2600m",
@@ -492,7 +492,7 @@
             {
                 "name": "2700m",
                 "file": "TAS27.tas",
-                "frames": 118
+                "frames": 117
             },
             {
                 "name": "2800m",
@@ -630,7 +630,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 67
+                "frames": 66
             },
             {
                 "name": "200m",
@@ -735,7 +735,7 @@
             {
                 "name": "2200m",
                 "file": "TAS22.tas",
-                "frames": 135
+                "frames": 132
             },
             {
                 "name": "2300m",
@@ -1951,7 +1951,7 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 72
+                "frames": 71
             },
             {
                 "name": "200m",
@@ -3485,13 +3485,13 @@
     },
     "fulltime": {
         "classic": {
-            "any": "01:35.73",
-            "100": "1:54.70",
-            "nodiag": "1:45.53",
+            "any": "01:35.50",
+            "100": "1:53.73",
+            "nodiag": "1:45.40",
             "key%": null,
             "mindashes": "2:16.77",
-            "gemskipany": "1:40.37",
-            "gemskip100": "2:07.87",
+            "gemskipany": "1:39.40",
+            "gemskip100": "2:02.70",
             "gemskipnodiag": "1:54.40",
             "gemskipkey": null,
 			"minjumps": "2:03.73"
@@ -3529,7 +3529,7 @@
             "any": "1:06.93"
         },
         "funklost": {
-            "any": "1:52.93"
+            "any": "1:52.90"
         },
         "celeste1.5": {
             "any": "1:29.53"
