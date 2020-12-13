@@ -221,7 +221,7 @@
             {
                 "name": "2300m",
                 "file": "TAS23.tas",
-                "frames": 69
+                "frames": 68
             },
             {
                 "name": "2500m",
@@ -435,7 +435,7 @@
             {
                 "name": "2300m",
                 "file": "TAS23.tas",
-                "frames": 166
+                "frames": 169
             },
             {
                 "name": "2500m",
@@ -730,7 +730,7 @@
             {
                 "name": "2100m",
                 "file": "TAS21.tas",
-                "frames": 34
+                "frames": 33
             },
             {
                 "name": "2200m",
@@ -3902,11 +3902,11 @@
         "classic": {
             "any": "01:35.27",
             "100": "1:53.30",
-            "nodiag": "1:44.60",
+            "nodiag": "1:44.57",
             "key%": null,
             "mindashes": "2:16.50",
-            "gemskipany": "1:39.40",
-            "gemskip100": "2:00.63",
+            "gemskipany": "1:39.03",
+            "gemskip100": "2:00.53",
             "gemskipnodiag": "1:53.33",
             "gemskipkey": null,
 			"minjumps": "2:03.33"
