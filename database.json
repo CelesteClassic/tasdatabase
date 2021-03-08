@@ -4038,12 +4038,12 @@
     "fulltime": {
         "classic": {
             "any": "1:35.03",
-            "100": "1:53.16",
+            "100": "1:53.06",
             "nodiag": "1:44.57",
             "key%": null,
             "mindashes": "2:16.13",
-            "gemskipany": "1:38.86",
-            "gemskip100": "2:00.43",
+            "gemskipany": "1:38.83",
+            "gemskip100": "2:00.20",
             "gemskipnodiag": "1:53.33",
             "gemskipkey": null,
             "minjumps": "2:03.33"
