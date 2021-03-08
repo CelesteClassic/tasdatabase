@@ -477,7 +477,7 @@
             {
                 "name": "2400m",
                 "file": "TAS24.tas",
-                "frames": 76
+                "frames": 75
             },
             {
                 "name": "2500m",
@@ -778,7 +778,7 @@
                 "frames": 64
             }
         ],
-		"minjumps": [
+        "minjumps": [
             {
                 "name": "100m",
                 "file": "TAS1.tas",
@@ -1064,7 +1064,7 @@
                 "frames": 50
             }
         ],
-		"gemskipany": [
+        "gemskipany": [
             {
                 "name": "Everred Peaks",
                 "file": "TAS13.tas",
@@ -2041,7 +2041,7 @@
             {
                 "name": "1900m",
                 "file": "TAS19.tas",
-				"frames": 123
+                "frames": 123
             },
             {
                 "name": "2000m",
@@ -2066,7 +2066,7 @@
             {
                 "name": "2400m",
                 "file": "TAS24.tas",
-				"frames": 116
+                "frames": 116
             },
             {
                 "name": "2500m",
@@ -2086,12 +2086,12 @@
             {
                 "name": "2800m",
                 "file": "TAS28.tas",
-				"frames": 126
+                "frames": 126
             },
             {
                 "name": "2900m",
                 "file": "TAS29.tas",
-				"frames": 118
+                "frames": 118
             },
             {
                 "name": "3000m",
@@ -2107,57 +2107,57 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-				"frames": 74
+                "frames": 74
             },
             {
                 "name": "300m",
                 "file": "TAS3.tas",
-				"frames": 141
+                "frames": 141
             },
             {
                 "name": "500m",
                 "file": "TAS5.tas",
-				"frames": 138
+                "frames": 138
             },
             {
                 "name": "700m",
                 "file": "TAS7.tas",
-				"frames": 104
+                "frames": 104
             },
             {
                 "name": "1400m",
                 "file": "TAS14.tas",
-				"frames": 71
+                "frames": 71
             },
             {
                 "name": "1700m",
                 "file": "TAS17.tas",
-				"frames": 54
+                "frames": 54
             },
             {
                 "name": "1900m",
                 "file": "TAS19.tas",
-				"frames": 136
+                "frames": 136
             },
             {
                 "name": "2300m",
                 "file": "TAS23.tas",
-				"frames": 92
+                "frames": 92
             },
             {
                 "name": "2700m",
                 "file": "TAS27.tas",
-				"frames": 102
+                "frames": 102
             },
             {
                 "name": "2800m",
                 "file": "TAS28.tas",
-				"frames": 126
+                "frames": 126
             },
             {
                 "name": "3000m",
                 "file": "TAS30.tas",
-				"frames": 196
+                "frames": 196
             }
         ],
         "treehundo": [
@@ -2936,7 +2936,7 @@
             }
         ]
     },
-	"ruins": {
+    "ruins": {
         "any": [
             {
                 "name": "KEEP OUT",
@@ -3070,7 +3070,7 @@
             }
         ]
     },
-	"mars": {
+    "mars": {
         "any": [
             {
                 "name": "100m",
@@ -3228,7 +3228,7 @@
             }
         ]
     },
-	"caligo": {
+    "caligo": {
         "any": [
             {
                 "name": "100m",
@@ -3336,7 +3336,7 @@
             }
         ]
     },
-	"celestex": {
+    "celestex": {
         "any": [
             {
                 "name": "100m",
@@ -3494,7 +3494,7 @@
             }
         ]
     },
-	"sparkleste": {
+    "sparkleste": {
         "any": [
             {
                 "name": "100m",
@@ -3602,7 +3602,7 @@
             }
         ]
     },
-	"cliffside": {
+    "cliffside": {
         "any": [
             {
                 "name": "100m",
@@ -3760,7 +3760,7 @@
             }
         ]
     },
-	"helleste": {
+    "helleste": {
         "any": [
             {
                 "name": "100m",
@@ -3807,8 +3807,8 @@
                 "file": "TAS9.tas"
             }
         ],
-		"gemskip": [
-			{
+        "gemskip": [
+            {
                 "name": "400m",
                 "file": "TAS4.tas",
                 "frames": 50
@@ -3837,9 +3837,9 @@
                 "name": "Summit",
                 "file": "TAS9.tas"
             }
-		]
+        ]
     },
-	"jusebameya": {
+    "jusebameya": {
         "gemskip": [
             {
                 "name": "100m",
@@ -3898,7 +3898,7 @@
             }
         ]
     },
-	"falleste": {
+    "falleste": {
         "any": [
             {
                 "name": "0m",
@@ -3955,80 +3955,81 @@
                 "file": "TAS11.tas",
                 "frames": 292
             },
-			{
+            {
                 "name": "448m",
                 "file": "TAS12.tas",
                 "frames": 454
             },
-			{
+            {
                 "name": "544m",
                 "file": "TAS13.tas",
                 "frames": 377
             },
-			{
+            {
                 "name": "576m",
                 "file": "TAS14.tas",
                 "frames": 247
             },
-			{
+            {
                 "name": "640m",
                 "file": "TAS15.tas",
                 "frames": 466
             },
-			{
+            {
                 "name": "highway to hell",
                 "file": "TAS16.tas",
                 "frames": 266
             },
-			{
+            {
                 "name": "end of the line",
                 "file": "TAS17.tas",
                 "frames": 267
-            },{
+            },
+            {
                 "name": "summit",
                 "file": "TAS18.tas",
                 "frames": 82
             }
         ]
     },
-	"classic2": {
+    "classic2": {
         "any": [
             {
                 "name": "0-1",
                 "file": "TAS1.tas",
                 "frames": 348
             },
-			{
+            {
                 "name": "0-2",
                 "file": "TAS2.tas",
                 "frames": 188
             },
-			{
+            {
                 "name": "1-1",
                 "file": "TAS3.tas",
                 "frames": 331
             },
-			{
+            {
                 "name": "2-1",
                 "file": "TAS4.tas",
                 "frames": 723
             },
-			{
+            {
                 "name": "3-1",
                 "file": "TAS5.tas",
                 "frames": 301
             },
-			{
+            {
                 "name": "3-2",
                 "file": "TAS6.tas",
                 "frames": 297
             },
-			{
+            {
                 "name": "3-3",
                 "file": "TAS7.tas",
                 "frames": 297
             },
-			{
+            {
                 "name": "destination",
                 "file": "TAS8.tas"
             }
@@ -4045,11 +4046,11 @@
             "gemskip100": "2:00.43",
             "gemskipnodiag": "1:53.33",
             "gemskipkey": null,
-			"minjumps": "2:03.33"
+            "minjumps": "2:03.33"
         },
         "adelie": {
             "gemskipanypenguin": "1:00.90",
-			"gemskipanynopenguin": "35.47"
+            "gemskipanynopenguin": "35.47"
         },
         "arielle": {
             "any": "39.40"
@@ -4060,7 +4061,7 @@
         },
         "everred": {
             "normalany": "1:13.60",
-			"gemskipany": "1:15.43",
+            "gemskipany": "1:15.43",
             "trueskipany": "1:14.07"
         },
         "impossibleste": {
@@ -4081,7 +4082,7 @@
         },
         "funklost": {
             "any": "1:52.40",
-			"100": "2:04.87"
+            "100": "2:04.87"
         },
         "celeste1.5": {
             "any": "1:29.53"
@@ -4092,36 +4093,36 @@
         "snekmod": {
             "gemskip": "1:15.73"
         },
-		"ruins":{
-			"any": "1:27.70"
-		},
-		"mars":{
-			"any": "2:12.27"
-		},
-		"caligo":{
-			"any": "59.03"
-		},
-		"celestex":{
-			"any": "1:59.70"
-		},
-		"sparkleste":{
-			"any": "1:06.20"
-		},
-		"cliffside":{
-			"any": "1:47.17"
-		},
-		"helleste":{
-			"any": "00:37.57",
-			"gemskip": "00:37.70"
-		},
-		"jusebameya":{
-			"gemskip": "18:57.57"
-		},
-		"falleste":{
-			"any": "2:11.87"
-		},
-		"classic2":{
-			"any": "1:22.83"
-		}
+        "ruins": {
+            "any": "1:27.70"
+        },
+        "mars": {
+            "any": "2:12.27"
+        },
+        "caligo": {
+            "any": "59.03"
+        },
+        "celestex": {
+            "any": "1:59.70"
+        },
+        "sparkleste": {
+            "any": "1:06.20"
+        },
+        "cliffside": {
+            "any": "1:47.17"
+        },
+        "helleste": {
+            "any": "00:37.57",
+            "gemskip": "00:37.70"
+        },
+        "jusebameya": {
+            "gemskip": "18:57.57"
+        },
+        "falleste": {
+            "any": "2:11.87"
+        },
+        "classic2": {
+            "any": "1:22.83"
+        }
     }
 }
