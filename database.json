@@ -1195,7 +1195,7 @@
             {
                 "name": "True Summit",
                 "file": "TAS28.tas",
-                "frames": 61
+                "frames": -1
             }
         ]
     },
