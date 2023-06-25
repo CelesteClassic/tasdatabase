@@ -1943,11 +1943,6 @@
                 "name": "2200m",
                 "file": "TAS22.tas",
                 "frames": 142
-            },
-            {
-                "name": "700m",
-                "file": "TAS7.tas",
-                "frames": 116
             }
         ]
     },
