@@ -253,8 +253,8 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 81,
-                "dashes": 1
+                "frames": 448,
+                "dashes": 0
             },
             {
                 "name": "200m",
@@ -450,7 +450,7 @@
             {
                 "name": "2800m",
                 "file": "TAS28.tas",
-                "frames": 167
+                "frames": 166
             },
             {
                 "name": "2900m",
@@ -1175,7 +1175,7 @@
             {
                 "name": "Aspiration",
                 "file": "TAS22.tas",
-                "frames": 123
+                "frames": 177
             },
             {
                 "name": "Contemplation",
