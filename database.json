@@ -1880,7 +1880,7 @@
                 "frames": 103
             },
             {
-                "name": "300",
+                "name": "300m",
                 "file": "TAS3.tas",
                 "frames": 97
             },
@@ -1930,6 +1930,11 @@
                 "frames": 142
             },
             {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": 110
+            },
+            {
                 "name": "1500m",
                 "file": "TAS15.tas",
                 "frames": 95
@@ -1938,6 +1943,31 @@
                 "name": "1600m",
                 "file": "TAS16.tas",
                 "frames": 63
+            },
+            {
+                "name": "1700m",
+                "file": "TAS17.tas",
+                "frames": 117
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": 102
+            },
+            {
+                "name": "1900m",
+                "file": "TAS19.tas",
+                "frames": 70
+            },
+            {
+                "name": "2000m",
+                "file": "TAS20.tas",
+                "frames": 128
+            },
+            {
+                "name": "2100m",
+                "file": "TAS21.tas",
+                "frames": 135
             },
             {
                 "name": "2200m",
