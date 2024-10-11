@@ -4228,7 +4228,7 @@
             {
                 "name": "2000m",
                 "file": "TAS20.tas",
-                "frames": null
+                "frames": 32
             },
             {
                 "name": "summit",
