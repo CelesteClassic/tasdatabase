@@ -4124,7 +4124,117 @@
         "classic2": {
             "any": "1:22.83"
         },
-        "fuji": {}
+        "fuji": {
+            "any": null
+        }
     },
-    "fuji": {}
+    "fuji": {
+        "any": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": null
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "memorial",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "800m",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "1000m",
+                "file": "TAS10.tas",
+                "frames": null
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "1200m",
+                "file": "TAS12.tas",
+                "frames": null
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "chest",
+                "file": "TAS14.tas",
+                "frames": null
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+                "frames": null
+            },
+            {
+                "name": "1700m",
+                "file": "TAS17.tas",
+                "frames": null
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": null
+            },
+            {
+                "name": "1900m",
+                "file": "TAS19.tas",
+                "frames": null
+            },
+            {
+                "name": "2000m",
+                "file": "TAS20.tas",
+                "frames": null
+            },
+            {
+                "name": "summit",
+                "file": "TAS21.tas",
+                "frames": null
+            }
+        ]
+    }
 }
