@@ -3997,37 +3997,37 @@
             {
                 "name": "0-1",
                 "file": "TAS1.tas",
-                "frames": 345
+                "frames": 346
             },
             {
                 "name": "0-2",
                 "file": "TAS2.tas",
-                "frames": 187
+                "frames": 188
             },
             {
                 "name": "1-1",
                 "file": "TAS3.tas",
-                "frames": 329
+                "frames": 330
             },
             {
                 "name": "2-1",
                 "file": "TAS4.tas",
-                "frames": 714
+                "frames": 715
             },
             {
                 "name": "3-1",
                 "file": "TAS5.tas",
-                "frames": 294
+                "frames": 295
             },
             {
                 "name": "3-2",
                 "file": "TAS6.tas",
-                "frames": 287
+                "frames": 288
             },
             {
                 "name": "3-3",
                 "file": "TAS7.tas",
-                "frames": 296
+                "frames": 297
             },
             {
                 "name": "destination",
@@ -4122,7 +4122,7 @@
             "any": "2:11.87"
         },
         "classic2": {
-            "any": "1:22.83"
+            "any": "1:21.97"
         },
         "fuji": {
             "any": null
