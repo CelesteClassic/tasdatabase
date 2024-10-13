@@ -4278,104 +4278,84 @@
                 "frames": null
             },
             {
-                "name": "Familiar Device",
+                "name": "Triple Jump",
                 "file": "TAS8.tas",
                 "frames": 135
             },
             {
-                "name": "Ascent",
+                "name": "Slide",
                 "file": "TAS9.tas",
                 "frames": 142
             },
             {
-                "name": "Bounce",
+                "name": "Catch",
                 "file": "TAS10.tas",
                 "frames": 33
             },
             {
-                "name": "Up and Around",
+                "name": "Timer",
                 "file": "TAS11.tas",
                 "frames": 114
             },
             {
-                "name": "Triple Jump",
+                "name": "Quadruple Jump",
                 "file": "TAS12.tas",
                 "frames": 133
             },
             {
-                "name": "Slide",
+                "name": "Stool Trap",
                 "file": "TAS13.tas",
                 "frames": 102
             },
             {
-                "name": "Catch",
+                "name": "Crumble",
                 "file": "TAS14.tas",
                 "frames": 145
             },
             {
-                "name": "Timer",
+                "name": "Reflexes",
                 "file": "TAS15.tas",
                 "frames": 111
             },
             {
-                "name": "Quadruple Jump",
+                "name": "Timer 2: The Sequel",
                 "file": "TAS16.tas",
                 "frames": 133
             },
             {
-                "name": "Stool Trap",
+                "name": "Jailbreak",
                 "file": "TAS17.tas",
                 "frames": 211
             },
             {
-                "name": "Crumble",
+                "name": "Tunnel",
                 "file": "TAS18.tas",
                 "frames": 211
             },
             {
-                "name": "Reflexes",
+                "name": "Outside the Box",
                 "file": "TAS19.tas",
                 "frames": 131
             },
             {
-                "name": "Timer 15: The Sequel",
+                "name": "Maze",
                 "file": "TAS7.tas",
                 "frames": 75
             },
             {
-                "name": "Jailbreak",
+                "name": "Collect 'Em All",
                 "file": "TAS21.tas",
                 "frames": 178
             },
             {
-                "name": "Tunnel",
+                "name": "Top Shelf",
                 "file": "TAS22.tas",
                 "frames": 179
             },
             {
-                "name": "Outside the Box",
+                "name": "Summit",
                 "file": "TAS23.tas",
                 "frames": 233
-            },
-            {
-                "name": "Maze",
-                "file": "TAS24.tas",
-                "frames": null
-            },
-            {
-                "name": "Collect 'Em All",
-                "file": "TAS25.tas",
-                "frames": null
-            },
-            {
-                "name": "Top Shelf",
-                "file": "TAS26.tas",
-                "frames": null
-            },
-            {
-                "name": "Summit",
-                "file": "TAS27.tas",
-                "frames": null
             }
         ]
     }
