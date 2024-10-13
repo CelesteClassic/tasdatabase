@@ -4275,7 +4275,7 @@
             {
                 "name": "Up and Around",
                 "file": "TAS7.tas",
-                "frames": null
+                "frames": 71
             },
             {
                 "name": "Triple Jump",
@@ -4339,7 +4339,7 @@
             },
             {
                 "name": "Maze",
-                "file": "TAS7.tas",
+                "file": "TAS20.tas",
                 "frames": 75
             },
             {
