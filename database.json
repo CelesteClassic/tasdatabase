@@ -4250,7 +4250,7 @@
             {
                 "name": "Safe Landing",
                 "file": "TAS2.tas",
-                "frames": null
+                "frames": 75
             },
             {
                 "name": "Double Jump",
