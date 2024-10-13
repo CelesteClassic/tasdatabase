@@ -4127,7 +4127,9 @@
         "fuji": {
             "any": null
         },
-        "stoolmod": {}
+        "stoolmod": {
+            "trueany": null
+        }
     },
     "fuji": {
         "any": [
@@ -4238,5 +4240,143 @@
             }
         ]
     },
-    "stoolmod": {}
+    "stoolmod": {
+        "trueany": [
+            {
+                "name": "Beginning",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "Safe Landing",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "Double Jump",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "Familiar Device",
+                "file": "TAS4.tas",
+                "frames": null
+            },
+            {
+                "name": "Ascent",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "Bounce",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "Up and Around",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "Familiar Device",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "Ascent",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "Bounce",
+                "file": "TAS10.tas",
+                "frames": null
+            },
+            {
+                "name": "Up and Around",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "Triple Jump",
+                "file": "TAS12.tas",
+                "frames": null
+            },
+            {
+                "name": "Slide",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "Catch",
+                "file": "TAS14.tas",
+                "frames": null
+            },
+            {
+                "name": "Timer",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "Quadruple Jump",
+                "file": "TAS16.tas",
+                "frames": null
+            },
+            {
+                "name": "Stool Trap",
+                "file": "TAS17.tas",
+                "frames": null
+            },
+            {
+                "name": "Crumble",
+                "file": "TAS18.tas",
+                "frames": null
+            },
+            {
+                "name": "Reflexes",
+                "file": "TAS19.tas",
+                "frames": null
+            },
+            {
+                "name": "Timer 15: The Sequel",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "Jailbreak",
+                "file": "TAS21.tas",
+                "frames": null
+            },
+            {
+                "name": "Tunnel",
+                "file": "TAS22.tas",
+                "frames": null
+            },
+            {
+                "name": "Outside the Box",
+                "file": "TAS23.tas",
+                "frames": null
+            },
+            {
+                "name": "Maze",
+                "file": "TAS24.tas",
+                "frames": null
+            },
+            {
+                "name": "Collect 'Em All",
+                "file": "TAS25.tas",
+                "frames": null
+            },
+            {
+                "name": "Top Shelf",
+                "file": "TAS26.tas",
+                "frames": null
+            },
+            {
+                "name": "Summit",
+                "file": "TAS27.tas",
+                "frames": null
+            }
+        ]
+    }
 }
