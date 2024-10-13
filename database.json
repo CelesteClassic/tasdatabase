@@ -4126,7 +4126,8 @@
         },
         "fuji": {
             "any": null
-        }
+        },
+        "stoolmod": {}
     },
     "fuji": {
         "any": [
@@ -4236,5 +4237,6 @@
                 "frames": 27
             }
         ]
-    }
+    },
+    "stoolmod": {}
 }
