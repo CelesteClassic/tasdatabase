@@ -4130,7 +4130,9 @@
         "stoolmod": {
             "trueany": null
         },
-        "sanstitre": {}
+        "sanstitre": {
+            "any": null
+        }
     },
     "fuji": {
         "any": [
@@ -4360,5 +4362,28 @@
             }
         ]
     },
-    "sanstitre": {}
+    "sanstitre": {
+        "any": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "Summit",
+                "file": "TAS4.tas",
+                "frames": null
+            }
+        ]
+    }
 }
