@@ -4129,7 +4129,8 @@
         },
         "stoolmod": {
             "trueany": null
-        }
+        },
+        "sanstitre": {}
     },
     "fuji": {
         "any": [
@@ -4358,5 +4359,6 @@
                 "frames": 233
             }
         ]
-    }
+    },
+    "sanstitre": {}
 }
