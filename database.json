@@ -959,6 +959,23 @@
                 "frames": 50,
                 "jumps": 0
             }
+        ],
+        "abt100": [
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+		"frames": 165
+            },
+            {
+                "name": "2100m",
+                "file": "TAS21.tas",
+		"frames": 232
+            },
+            {
+                "name": "2900m",
+                "file": "TAS29.tas",
+		"frames": 168
+            }
         ]
     },
     "everred": {
