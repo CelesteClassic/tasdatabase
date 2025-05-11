@@ -959,6 +959,78 @@
                 "frames": 50,
                 "jumps": 0
             }
+        ],
+        "abt": [
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "800m",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "1100m",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "1600m",
+                "file": "TAS16.tas",
+                "frames": null
+            },
+            {
+                "name": "1800m",
+                "file": "TAS18.tas",
+                "frames": null
+            },
+            {
+                "name": "2000m",
+                "file": "TAS20.tas",
+                "frames": null
+            },
+            {
+                "name": "2100m",
+                "file": "TAS21.tas",
+                "frames": null
+            },
+            {
+                "name": "2700m",
+                "file": "TAS27.tas",
+                "frames": null
+            },
+            {
+                "name": "2800m",
+                "file": "TAS28.tas",
+                "frames": null
+            },
+            {
+                "name": "2900m",
+                "file": "TAS29.tas",
+                "frames": null
+            },
+            {
+                "name": "3000m",
+                "file": "TAS30.tas",
+                "frames": null
+            }
         ]
     },
     "everred": {
@@ -4076,7 +4148,8 @@
             "gemskip100": "2:00.20",
             "gemskipnodiag": "1:53.33",
             "gemskipkey": null,
-            "minjumps": "2:03.33"
+            "minjumps": "2:03.33",
+            "abt": null
         },
         "adelie": {
             "gemskipanypenguin": "1:00.90",
