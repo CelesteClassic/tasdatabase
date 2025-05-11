@@ -1031,6 +1031,38 @@
                 "file": "TAS30.tas",
                 "frames": null
             }
+        ],
+        "abt100": [
+            {
+                "name": "900m",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "1300m",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "1500m",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "2800m",
+                "file": "TAS28.tas",
+                "frames": null
+            },
+            {
+                "name": "2900m",
+                "file": "TAS29.tas",
+                "frames": null
+            },
+            {
+                "name": "3000m",
+                "file": "TAS30.tas",
+                "frames": null
+            }
         ]
     },
     "everred": {
@@ -4149,7 +4181,8 @@
             "gemskipnodiag": "1:53.33",
             "gemskipkey": null,
             "minjumps": "2:03.33",
-            "abt": null
+            "abt": null,
+            "abt100": null
         },
         "adelie": {
             "gemskipanypenguin": "1:00.90",
