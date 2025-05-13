@@ -403,8 +403,8 @@
             {
                 "name": "2600m",
                 "file": "TAS26.tas",
-                "frames": 144,
-                "dashes": 3
+                "frames": 140,
+                "dashes": 5
             },
             {
                 "name": "2700m",
