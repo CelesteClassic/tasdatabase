@@ -4269,7 +4269,9 @@
         "sanstitre": {
             "any": null
         },
-        "selena": {}
+        "selena": {
+            "any": null
+        }
     },
     "fuji": {
         "any": [
@@ -4523,5 +4525,43 @@
             }
         ]
     },
-    "selena": {}
+    "selena": {
+        "any": [
+            {
+                "name": "100m",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "200m",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "300m",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": null
+            },
+            {
+                "name": "500m",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "600m",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "700m",
+                "file": "TAS7.tas",
+                "frames": null
+            }
+        ]
+    }
 }
