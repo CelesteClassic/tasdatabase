@@ -4272,7 +4272,9 @@
         "selena": {
             "any": null
         },
-        "ccbtt": {}
+        "ccbtt": {
+            "madeline": null
+        }
     },
     "fuji": {
         "any": [
@@ -4565,5 +4567,73 @@
             }
         ]
     },
-    "ccbtt": {}
+    "ccbtt": {
+        "madeline": [
+            {
+                "name": "Adelie Hills",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "Everblue Tree",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "Wind Fortress",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "Shattered Tower",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "Snek's Face",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "Everred Plateau",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "Gonen's Targets",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "Roundelie Adv. 7",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "Level 3",
+                "file": "TAS17.tas",
+                "frames": null
+            },
+            {
+                "name": "Bifurcation",
+                "file": "TAS19.tas",
+                "frames": null
+            },
+            {
+                "name": "Snek's World",
+                "file": "TAS21.tas",
+                "frames": null
+            },
+            {
+                "name": "Snowball Juggling",
+                "file": "TAS23.tas",
+                "frames": null
+            },
+            {
+                "name": "Down Under",
+                "file": "TAS25.tas",
+                "frames": null
+            }
+        ]
+    }
 }
