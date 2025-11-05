@@ -782,8 +782,8 @@
             {
                 "name": "100m",
                 "file": "TAS1.tas",
-                "frames": 76,
-                "jumps": 1
+                "frames": 260,
+                "jumps": 0
             },
             {
                 "name": "200m",
