@@ -866,8 +866,8 @@
             {
                 "name": "1500m",
                 "file": "TAS15.tas",
-                "frames": 106,
-                "jumps": 1
+                "frames": 246,
+                "jumps": 0
             },
             {
                 "name": "1600m",
