@@ -824,8 +824,8 @@
             {
                 "name": "800m",
                 "file": "TAS8.tas",
-                "frames": 89,
-                "jumps": 1
+                "frames": 165,
+                "jumps": 0
             },
             {
                 "name": "900m",
