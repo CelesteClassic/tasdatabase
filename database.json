@@ -4274,7 +4274,8 @@
         },
         "ccbtt": {
             "madeline": null
-        }
+        },
+        "maglev": {}
     },
     "fuji": {
         "any": [
@@ -4635,5 +4636,6 @@
                 "frames": 171
             }
         ]
-    }
+    },
+    "maglev": {}
 }
