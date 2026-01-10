@@ -4752,7 +4752,7 @@
             {
                 "name": "Ground Floor",
                 "file": "TAS1.tas",
-                "frames": null
+                "frames": 127
             },
             {
                 "name": "5th Story",
