@@ -4276,7 +4276,8 @@
             "madeline": null
         },
         "maglev": {
-            "any": null
+            "any": null,
+            "100": null
         }
     },
     "fuji": {
@@ -4744,6 +4745,73 @@
             {
                 "name": "Birds Eye",
                 "file": "TAS21.tas",
+                "frames": null
+            }
+        ],
+        "100": [
+            {
+                "name": "Ground Floor",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "5th Story",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "6th Story",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "7th Story",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "8th Story",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "10th Story",
+                "file": "TAS10.tas",
+                "frames": null
+            },
+            {
+                "name": "11th Story",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "12th Story",
+                "file": "TAS12.tas",
+                "frames": null
+            },
+            {
+                "name": "Bad Luck",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "14th Story",
+                "file": "TAS14.tas",
+                "frames": null
+            },
+            {
+                "name": "17th Story",
+                "file": "TAS17.tas",
+                "frames": null
+            },
+            {
+                "name": "18th Story",
+                "file": "TAS18.tas",
+                "frames": null
+            },
+            {
+                "name": "19th Story",
+                "file": "TAS19.tas",
                 "frames": null
             }
         ]
