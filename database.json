@@ -4278,7 +4278,8 @@
         "maglev": {
             "any": null,
             "100": null
-        }
+        },
+        "sterrenmeid": {}
     },
     "fuji": {
         "any": [
@@ -4815,5 +4816,6 @@
                 "frames": 54
             }
         ]
-    }
+    },
+    "sterrenmeid": {}
 }
