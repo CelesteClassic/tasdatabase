@@ -4279,7 +4279,9 @@
             "any": null,
             "100": null
         },
-        "sterrenmeid": {}
+        "sterrenmeid": {
+            "any": null
+        }
     },
     "fuji": {
         "any": [
@@ -4817,5 +4819,108 @@
             }
         ]
     },
-    "sterrenmeid": {}
+    "sterrenmeid": {
+        "any": [
+            {
+                "name": "Crash Land",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "Shortcut",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "So Close!",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "Lab..?",
+                "file": "TAS4.tas",
+                "frames": null
+            },
+            {
+                "name": "Lab 2",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "Lab 3",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "Cloning Facility",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "Clone 2",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "Lab Exit",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "Low Gravity Zone",
+                "file": "TAS10.tas",
+                "frames": null
+            },
+            {
+                "name": "Solar Storm",
+                "file": "TAS11.tas",
+                "frames": null
+            },
+            {
+                "name": "Antimatter Anomaly",
+                "file": "TAS12.tas",
+                "frames": null
+            },
+            {
+                "name": "Cosmic Cradle",
+                "file": "TAS13.tas",
+                "frames": null
+            },
+            {
+                "name": "Astral Abyss",
+                "file": "TAS14.tas",
+                "frames": null
+            },
+            {
+                "name": "Celestial Caves",
+                "file": "TAS15.tas",
+                "frames": null
+            },
+            {
+                "name": "Starfall Straits",
+                "file": "TAS16.tas",
+                "frames": null
+            },
+            {
+                "name": "Black Hole Basin",
+                "file": "TAS17.tas",
+                "frames": null
+            },
+            {
+                "name": "Pulsar Peaks",
+                "file": "TAS18.tas",
+                "frames": null
+            },
+            {
+                "name": "Rathole",
+                "file": "TAS19.tas",
+                "frames": null
+            },
+            {
+                "name": "Core",
+                "file": "TAS20.tas",
+                "frames": null
+            }
+        ]
+    }
 }
