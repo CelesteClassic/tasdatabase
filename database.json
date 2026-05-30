@@ -586,6 +586,11 @@
         ],
         "key": [
             {
+                "name": "400m",
+                "file": "TAS4.tas",
+                "frames": 64
+            },
+            {
                 "name": "500m",
                 "file": "TAS5.tas",
                 "frames": 111
