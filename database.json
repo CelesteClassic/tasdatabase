@@ -4287,7 +4287,9 @@
         "sterrenmeid": {
             "any": null
         },
-        "iceage": {}
+        "iceage": {
+            "any": null
+        }
     },
     "fuji": {
         "any": [
@@ -4929,5 +4931,63 @@
             }
         ]
     },
-    "iceage": {}
+    "iceage": {
+        "any": [
+            {
+                "name": "Crevice",
+                "file": "TAS1.tas",
+                "frames": null
+            },
+            {
+                "name": "Peaks",
+                "file": "TAS2.tas",
+                "frames": null
+            },
+            {
+                "name": "Icebergs",
+                "file": "TAS3.tas",
+                "frames": null
+            },
+            {
+                "name": "Icicle",
+                "file": "TAS4.tas",
+                "frames": null
+            },
+            {
+                "name": "Glacier",
+                "file": "TAS5.tas",
+                "frames": null
+            },
+            {
+                "name": "Cavern",
+                "file": "TAS6.tas",
+                "frames": null
+            },
+            {
+                "name": "Overhang",
+                "file": "TAS7.tas",
+                "frames": null
+            },
+            {
+                "name": "Ice Cap",
+                "file": "TAS8.tas",
+                "frames": null
+            },
+            {
+                "name": "Thaw",
+                "file": "TAS9.tas",
+                "frames": null
+            },
+            {
+                "name": "Shelter",
+                "file": "TAS10.tas",
+                "frames": null
+            },
+            {
+                "name": "Tower",
+                "file": "TAS11.tas",
+                "frames": null
+            }
+        ]
+    }
 }
